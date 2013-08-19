@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<!--[if IE]>
+<![endif]-->
+<html><head><meta charset="utf-8" />
+<title>Sirius Jack!'s Spotlight page on SoundCloud - Hear the world’s sounds</title>
+<meta content="record, sounds, share, sound, audio, tracks, music, soundcloud" name="keywords" />
+<meta content='http://twitter.com/siriusjack
+http://www.soundcloud.com/jacksonissirius
+http://www.facebook.com/jacksonissirius
+
+<meta name="msvalida... | Explore the largest community of artists, bands, podcasters and creators of music & audio.' name="description" />
+
+<meta content="width=device-width" name="viewport" />
+<meta content="IE=edge,chrome=1" name="X-UA-Compatible" />
+<meta content="SoundCloud" name="application-name" />
+<meta content="Launch SoundCloud" name="msapplication-tooltip" />
+<meta content="http://a1.sndcdn.com/images/win8.png" name="msapplication-TileImage" />
+<meta content="#ff6600" name="msapplication-TileColor" />
+<meta content="https://soundcloud.com" name="msapplication-starturl" />
+<meta content="27" property="soundcloud:sound_count" /><meta content="179" property="soundcloud:follower_count" /><meta content="profile" property="og:type" /><meta content="http://soundcloud.com/jacksonissirius" property="og:url" /><meta content="Sirius Jack!" property="og:title" /><meta content="http://i1.sndcdn.com/avatars-000040683826-1mwolf-t500x500.jpg?aa1a7cb" property="og:image" /><meta content="http://twitter.com/siriusjack
+http://www.soundcloud.com/jacksonissirius
+http://www.facebook.com/jacksonissirius
+
+" property="og:description" /><meta content="Phoenix" property="og:locality" /><meta content="United States" property="og:country-name" /><meta content="19507961798" property="fb:app_id" /><meta content="soundcloud" property="twitter:site" /><meta content="SoundCloud" property="og:site_name" /><meta content="summary" property="twitter:card" /><meta content="http://i1.sndcdn.com/avatars-000040683826-1mwolf-t300x300.jpg?aa1a7cb" property="twitter:image" /><meta content="Sirius Jack!" property="twitter:title" /><meta content="http://twitter.com/siriusjack
+http://www.soundcloud.com/jacksonissirius
+http://www.facebook.com/jacksonissirius
+
+" property="twitter:description" /><meta content="SoundCloud" property="twitter:app:name:iphone" /><meta content="336353151" property="twitter:app:id:iphone" /><meta content="SoundCloud" property="twitter:app:name:ipad" /><meta content="336353151" property="twitter:app:id:ipad" /><meta content="SoundCloud" property="twitter:app:name:googleplay" /><meta content="com.soundcloud.android" property="twitter:app:id:googleplay" /><meta content="soundcloud://users:1947729/" property="twitter:app:url:googleplay" /><meta content="soundcloud://users:1947729/" property="twitter:app:url:iphone" /><meta content="soundcloud://users:1947729/" property="twitter:app:url:ipad" /><meta content="video" name="medium" /><meta content="242" property="og:video:height" /><meta content="460" property="og:video:width" /><meta content="application/x-shockwave-flash" property="og:video:type" /><meta content="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1947729&color=3b5998&auto_play=true&show_artwork=false&origin=facebook" property="og:video" /><meta content="450" property="twitter:player:height" /><meta content="435" property="twitter:player:width" /><meta content="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1947729&auto_play=false&show_artwork=true&origin=twitter" property="twitter:player" /><link href="http://soundcloud.com/oembed?url=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius&format=xml" rel="alternate" type="text/xml+oembed" />
+<link href="http://soundcloud.com/oembed?url=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius&format=json" rel="alternate" type="application/json+oembed" />
+
+<!--[if IE]>
+<script src="http://a1.sndcdn.com/javascripts/plugins/vendor/excanvas-compressed.js?aa1a7cb" type="text/javascript"></script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">
+document.getElementsByTagName("html")[0].className = "ie9";
+</script>
+<![endif]-->
+<!--[if IE 8]>
+<script type="text/javascript">
+document.getElementsByTagName("html")[0].className = "ie8";
+</script>
+<![endif]-->
+<!--[if lte IE 8]>
+<script type="text/javascript">
+document.getElementsByTagName("html")[0].className = "ie7";
+</script>
+<meta content="true" name="MSSmartTagsPreventParsing" />
+<meta content="false" http-equiv="imagetoolbar" />
+<![endif]-->
+<script type="text/javascript">
+window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.com","assetPath":"a1.sndcdn.com","facebook":{"appId":"19507961798","appKey":"61261ce0407b2ccb568641b513098e18","namespace":"soundcloud","xdReceiver":"/connect/xd_receiver.htm"},"clientID":"642aa4110ea8a23d048f4fd67ff465da","scApiDomain":"api.soundcloud.com","songkickApiKey":"ZWsLr2h7FF5sHG54","gaID":"UA-2519404-1"};
+</script>
+<link href="http://a1.sndcdn.com/stylesheets/general.css?aa1a7cb" media="all" rel="stylesheet" type="text/css" />
+<link href="http://a1.sndcdn.com/stylesheets/special.css?aa1a7cb" media="all" rel="stylesheet" type="text/css" />
+<link href="/sc-opensearch.xml" rel="search" title="SoundCloud Search" type="application/opensearchdescription+xml" />
+
+<link href="http://a1.sndcdn.com/images/apple-touch-icon.png?aa1a7cb" rel="apple-touch-icon" />
+<link href="http://a1.sndcdn.com/favicon.ico?aa1a7cb" rel="shortcut icon" />
+<link href="http://a1.sndcdn.com/images/soundcloud_app.png?aa1a7cb" rel="fluid-icon" />
+<link href="https://plus.google.com/111859952716487912198" rel="publisher" />
+</head>
+<body class="spotlight restricted profile" data-sc-owner="jacksonissirius" id="users"><div class="dormant"><div class="announcement"><a href="#" class="announcement-close close" title="Hide this help-text">hide</a>
+<span class="exclamation"></span>
+<p class="message"></p></div></div>
+
+<div id="header"><div id="header-top"><div id="sc-info"><a href="/apps?ref=top">App Gallery</a>
+|
+<a href="http://help.soundcloud.com">Get help</a>
+|
+<a href="/premium?ref=top">Go Pro</a>
+|
+<a href="http://blog.soundcloud.com">What's new?</a></div>
+<div id="user-status"><a href="/" id="logo">Soundcloud</a>
+<div class="logged-in"><abbr title="It's Swedish for 'Hi'">Hej,</abbr>
+<span id="logged-in-user"><a href="/" class="current-user" id="current-user-head">stranger</a>
+<a class="premium" href="/premium?ref=t027" id="current-plan-badge"></a></span>
+|
+<script type="text/javascript">
+  //<![CDATA[
+    window.SC.renderLoginStatus = function() {
+      var $p = document.getElementById('current-plan-badge')
+        , $h = document.getElementById('current-user-head')
+        , $u = document.getElementById('logged-in-user')
+        , $ht = document.getElementsByTagName('html')[0]
+        , $b = document.getElementsByTagName('body')[0]
+        , w = $b.getAttribute('data-sc-owner')
+        , c = document.cookie.split(';')
+        , u = {}
+        , o = {};
+    
+      for(var i = 0; i < c.length; i++) {
+        var pair = c[i].split('=');
+        o[pair[0].replace(/^\s/, '')] = decodeURIComponent(pair[1]).replace(/\+/g, ' ');
+      }
+    
+      if($h) {
+        $h.innerHTML = '';
+        $h.appendChild(document.createTextNode(o['u'] || 'stranger'));
+        $h.href = '/' + o['p'];
+      }
+    
+      if($ht) {
+        $ht.className = $ht.className.replace(/ ?(anonymous|logged-in)/g, '');
+        $ht.className += o['p'] ? ' logged-in' : ' anonymous';
+      }
+    
+      u.authenticityToken = o['k']
+      u.avatarTiny = o['a'];
+      u.permalink = o['p'];
+      u.plan = o['l'];
+      u.planName = o['c'];
+      u.tracks_count = o['r'];
+      u.comments_count = o['o'];
+      u.favorites_count = o['v'];
+      u.id = parseInt(o['i']);
+    
+      if(o['t']) {
+        u.types = o['t'].split('&');
+      } else {
+        u.types = [];
+      }
+    
+      u.quota = {};
+      u.quota.playlists = o['qp'];
+      u.quota.sharings_per_track = o['qs'];
+      u.quota.contributions_per_track = o['qc'];
+      u.quota.contact_groupings = o['qn'];
+      u.quota.groups = o['qg'];
+      u.quota.support = o['qt'];
+    
+      if(o['c'] === 'free') {
+        if($u) { $u.className = 'free-user'; }
+        if($p) { $p.className += ' hidden' }
+      } else {
+        if($p) { $p.className += ' plan-' + o['c']; }
+      }
+    
+      if($b && w && (w === u.permalink)) {
+        $b.className += ' current-user';
+      }
+    
+      window.SC.currentUser = u;
+    };
+    
+    window.SC.renderSupportLevel = function() {
+      var support = 'Support';
+    
+      if (SC.currentUser.quota.support === 'premium') {
+        support = 'Premium Support';
+      } else if (SC.currentUser.quota.support === 'pro') {
+        support = 'Pro Support';
+      }
+      document.getElementById('footer-support-link').innerHTML = support;
+    };
+    
+    window.SC.renderLoginStatus();
+  //]]>
+</script>
+
+<a href="/settings">Settings</a>
+|
+<a class="inbox" href="/messages">Inbox
+<cite class="user-counter" id="user-inbox-counter" style="display: none;"></cite></a>
+|
+<a href="/logout" class="header-logout">Log out</a>
+<div class="hidden" id="user-id">Sirius Jack!</div></div>
+<div class="anonymous"><a href="/login?ref=top" class="sign-in" id="login-link">Log In</a> | <a href="/signup?ref=top" class="sign-in" id="signup-link">Sign Up</a></div></div></div>
+<div id="header-lower"><ul id="main-nav"><li class="nav no-submenu anonymous" id="menu-button-home"><a href="/">Home</a>
+<div class="open-submenu"></div></li>
+<li class="nav no-submenu anonymous" id="menu-button-tour"><a href="/tour/">The Tour</a>
+<div class="open-submenu"></div></li>
+<li class="nav no-submenu anonymous" id="menu-button-signup"><a href="/signup">Sign Up</a>
+<div class="open-submenu"></div></li>
+<li class="no-submenu nav logged-in" id="menu-button-dashboard"><a href="/dashboard">Dashboard</a>
+<div class="open-submenu"></div></li>
+<li class="nav submenu logged-in" id="menu-button-you"><a href="/you/tracks">You</a>
+<div class="open-submenu"></div>
+<ul class="tabs"><li class="first" data-sc-cnt="tracks"><a href="/you/tracks">Sounds</a></li><li data-sc-cnt="playlists"><a href="/you/sets">Sets</a></li><li data-sc-cnt="comments"><a href="/you/comments">Comments</a></li><li data-sc-cnt="favorites"><a href="/you/favorites">Favorites</a></li><li data-sc-cnt="moderated_groups"><a href="/you/groups">Groups</a></li><li><a href="/you/profile">Your public Profile</a></li><li class="last"><a href="/you/stats">Your Stats</a></li></ul></li>
+<li class="nav submenu logged-in" id="menu-button-tracks"><a href="/tracks">Tracks</a>
+<div class="open-submenu"></div>
+<ul class="tabs"><li class="first"><a href="/tracks">Explore Sounds</a></li><li><a href="/creativecommons">Creative Commons</a></li><li class="last"><a href="/tracks/search">Search for Sounds</a></li></ul></li>
+<li class="nav submenu logged-in" id="menu-button-people"><a href="/people">People</a>
+<div class="open-submenu"></div>
+<ul class="tabs"><li class="first"><a href="/people">Explore People</a></li><li><a href="/people/finder">Find Friends</a></li><li data-sc-cnt="contact_affiliations"><a href="/people/following">You Follow</a></li><li data-sc-cnt="fan_affiliations"><a href="/people/followers">Following You</a></li><li data-sc-cnt="contact_groups"><a href="/people/contacts">Your Contact Lists</a></li><li class="last"><a href="/people/search">Search for People</a></li></ul></li>
+<li class="nav submenu logged-in" id="menu-button-groups"><a href="/groups/joined">Groups</a>
+<div class="open-submenu"></div>
+<ul class="tabs"><li class="first" data-sc-cnt="groups"><a href="/groups/joined">You've joined</a></li><li><a href="/groups/latest">Explore Groups</a></li><li class="last"><a href="/groups/search">Search for Groups</a></li></ul></li>
+<li id="menu-button-upload"><a href="/upload" class="link-button">Upload & Share</a></li></ul>
+
+<div id="volume"><a class="volume-control-button level0" title="Set the volume">Volume</a>
+<div class="aural" id="volume-control"><a class="volume-control-button level0">Volume</a>
+<div id="volume-control-wrapper"><a class="volume-plus">+</a>
+<div id="volume-control-handle"></div>
+<div id="volume-control-scale"></div>
+<a class="volume-minus"></a></div></div></div>
+<div id="search"><form action="/search" method="get">
+<input accesskey="f" autocomplete="off" class="blurred" id="header-search" name="q[fulltext]" placeholder="Search SoundCloud" type="text" value="Search SoundCloud" />
+<div class="search-selector" title="Select what you want to search for"></div>
+<ul class="pulldown hidden search-select"><li><a href="/tracks/search">Tracks</a></li>
+<li><a href="/people/search">Users</a></li>
+<li><a href="/groups/search">Groups</a></li></ul>
+</form></div></div></div>
+
+<div id="main-wrapper"><div id="main-wrapper-inner"><div id="side-content"><div class="context-item"><h3>About</h3>
+<ul class="user-details-list"><li><a href="http://www.siriusjackproductions.info/Home/" class="personal " rel="me nofollow" target="_blank" title="http://www.siriusjackproductions.info/Home/">Official Website</a></li>
+<li><a href="http://www.facebook.com/jacksonissirius" class="facebook " rel="me nofollow" target="_blank" title="http://www.facebook.com/jacksonissirius">Official Fan Page</a></li>
+<li><a href="http://twitter.com/siriusjack" class="twitter " rel="me verified" target="_blank" title="http://twitter.com/siriusjack"><span>Twitter</span></a></li>
+<li><a href="http://www.last.fm/music/Sirius+Jack!" class="lastfm " rel="me nofollow" target="_blank" title="http://www.last.fm/music/Sirius+Jack!"><span>Last.fm</span></a></li>
+<li><a href="http://www.songkick.com/artists/5887764" class="songkick " rel="me nofollow" target="_blank" title="http://www.songkick.com/artists/5887764"><span>Songkick</span></a></li>
+<li><a href="http://siriusjack-son.tumblr.com/" class="tumblr " rel="me nofollow" target="_blank" title="http://siriusjack-son.tumblr.com/">Tumblr</a></li>
+<li><a href="http://youtube.com/user/Fauxmoehawkeen" class="youtube " rel="me nofollow" target="_blank" title="http://youtube.com/user/Fauxmoehawkeen"><span>YouTube</span></a></li>
+<li><a href="http://www.facebook.com/jmaschoff" class="facebook " rel="me nofollow" target="_blank" title="http://www.facebook.com/jmaschoff">Personal/Booking</a></li>
+<li><a href="http://www.bandpage.com/jacksonissirius" class="other " rel="me nofollow" target="_blank" title="http://www.bandpage.com/jacksonissirius">Bandpage</a></li>
+<li><a href="http://siriusjack.bandcamp.com" class="other " rel="me nofollow" target="_blank" title="http://siriusjack.bandcamp.com">Store</a></li>
+<li><a href="http://gravatar.com/jacksonissirius" class="other " rel="me nofollow" target="_blank" title="http://gravatar.com/jacksonissirius">Gravatar!</a></li>
+<li><a href="http://www.siriusjack.com" class="other " rel="me nofollow" target="_blank" title="http://www.siriusjack.com">Coming Soon</a></li>
+<li><a href="http://siriusjack.limitedrun.com/" class="other " rel="me nofollow" target="_blank" title="http://siriusjack.limitedrun.com/">Limited Run</a></li>
+<li><a href="http://lisaoriginalmixfreedownload.viinyl.com/" class="other " rel="me nofollow" target="_blank" title="http://lisaoriginalmixfreedownload.viinyl.com/">Viinyl</a></li>
+<li><a href="http://onesheet.com/siriusjack" class="other " rel="me nofollow" target="_blank" title="http://onesheet.com/siriusjack">OneSheet Page</a></li>
+<li><a href="http://www.reverbnation.com/siriusjack" class="reverbnation " rel="me nofollow" target="_blank" title="http://www.reverbnation.com/siriusjack">ReverbNation</a></li>
+<li><a href="http://www.cdbaby.com/cd/siriusjack" class="other " rel="me nofollow" target="_blank" title="http://www.cdbaby.com/cd/siriusjack">CD Baby Store</a></li></ul>
+<div id="description" itemprop="description"><p><a href="http://twitter.com/siriusjack
+" rel="nofollow" target="_blank">http://twitter.com/siriusjack
+</a>;
+<br /><a href="http://soundcloud.com/jacksonissirius
+" rel="nofollow" target="_blank">Sirius Jack!</a>;
+<br /><a href="http://www.facebook.com/jacksonissirius
+" rel="nofollow" target="_blank">http://www.facebook.com/jacksonissirius
+</a>;
+<br />
+</p></div></div>
+<div class="context-item"><div class="songkick-events hidden"><h3>On Tour</h3><a href="http://www.songkick.com/artists/5887764" class="songkick concerts" data-songkick="{"id": "5887764" }" rel="me nofollow" target="_blank" title="http://www.songkick.com/artists/5887764"><span>Songkick</span></a></div></div>
+<div class="context-item hidden" id="contacts"><ul class="tabs"><li><a href="#following" class="following" onclick="return false;" rel="nofollow">Following<abbr>102 </abbr></a></li>
+<li class="current"><a href="#followers" class="followers" onclick="return false;" rel="nofollow">Followers<abbr>179 </abbr></a></li>
+<li><a href="#groups" class="groups" onclick="return false;" rel="nofollow">Groups<abbr>66 </abbr></a></li></ul>
+<div class="hidden pane" id="following"><a href="/jacksonissirius/following" class="lazy hidden">View all</a></div>
+<div class="pane" id="followers"><a href="/jacksonissirius/followers?include_unseen=false" class="lazy hidden">View all</a></div>
+<div class="hidden pane" id="groups"><a href="/jacksonissirius/groups" class="lazy hidden">View all</a></div></div>
+
+</div>
+<div id="main-content"><div id="main-content-inner">
+
+
+<div class="vcard" id="user-info"><div class="user-image"><a class="user-image-large zoom photo" href="http://i1.sndcdn.com/avatars-000040683826-1mwolf-crop.jpg?aa1a7cb" style="background:url(http://i1.sndcdn.com/avatars-000040683826-1mwolf-large.jpg?aa1a7cb)" title="Click to zoom in">User Image</a>
+<meta content="http://i1.sndcdn.com/avatars-000040683826-1mwolf-original.jpg?aa1a7cb" itemprop="image" /></div>
+
+<h1><span class="inline nickname" itemprop="name">Sirius Jack!</span>
+<a class="plan-creator-pro-unlimited" href="/premium?ref=t050"> </a>
+<span class="online-indicator" title="Online"></span>
+<span><span class="fn inline">Jackson Maschoff</span>, <span class="loc inline">Phoenix, United States</span></span>
+<meta content="http://soundcloud.com/jacksonissirius" itemprop="url" /></h1><div class="actions"><a href="/jacksonissirius/follow" class="contact-link update button" id="add-user-1947729" onclick="return false;" rel="nofollow"><span>Follow</span></a>
+<a href="/messages/new?to=1947729" class="send-message button" onclick="return false;" rel="nofollow"><span>Send message</span></a>
+<a href="/jacksonissirius/dropbox/profile" class="button send-track"><span>Share a track</span></a>
+<a href="#share" class="share button" onclick="return false;" rel="nofollow" title="Share this on other networks"><span>Share</span></a>
+<div class="share-code hidden action-overlay"><div class="action-overlay-inner"><div class="share-options"><div class="expanded share-public share-root with-push-connection" data-sc-track-permalink="http://soundcloud.com/jacksonissirius"><div class="share-icons"><div class="icons-group"><a href="https://www.facebook.com/dialog/feed?display=popup&app_id=19507961798&link=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius%3Futm_source%3Dsoundcloud%26utm_campaign%3Dshare%26utm_medium%3Dfacebook%26utm_content%3Dhttp%3A%2F%2Fsoundcloud.com%2Fjacksonissirius&redirect_uri=http%3A%2F%2Fsoundcloud.com/popup_callback.html" class="facebook  popup" data-sc-share-type="facebook" data-sc-url="http://soundcloud.com/jacksonissirius?utm_source=soundcloud&utm_campaign=share&utm_medium=raw&utm_content=http://soundcloud.com/jacksonissirius" target="_blank" title="Share to Facebook"><span>Facebook</span></a>
+<a href="http://twitter.com/share?text=Sirius+Jack%21+by+%40siriusjack+via+%23soundcloud&url=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius%3Futm_source%3Dsoundcloud%26utm_campaign%3Dshare%26utm_medium%3Dtwitter%26utm_content%3Dhttp%3A%2F%2Fsoundcloud.com%2Fjacksonissirius" class="twitter  popup" data-sc-share-type="twitter" data-sc-url="http://soundcloud.com/jacksonissirius?utm_source=soundcloud&utm_campaign=share&utm_medium=raw&utm_content=http://soundcloud.com/jacksonissirius" target="_blank" title="Share to Twitter"><span>Twitter</span></a>
+<a href="http://www.tumblr.com/share/audio?externally_hosted_url=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius%3Futm_source%3Dsoundcloud%26utm_campaign%3Dshare%26utm_medium%3Dtumblr%26utm_content%3Dhttp%3A%2F%2Fsoundcloud.com%2Fjacksonissirius" class="tumblr  popup" data-sc-share-type="tumblr" data-sc-url="http://soundcloud.com/jacksonissirius?utm_source=soundcloud&utm_campaign=share&utm_medium=raw&utm_content=http://soundcloud.com/jacksonissirius" target="_blank" title="Share to Tumblr"><span>Tumblr</span></a>
+<a href="mailto:?subject=Sirius%20Jack%21%20-%20SoundCloud&body=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius%3Futm_source%3Dsoundcloud%26utm_campaign%3Dshare%26utm_medium%3Demail%26utm_content%3Dhttp%3A%2F%2Fsoundcloud.com%2Fjacksonissirius" class="email  " data-sc-share-type="email" data-sc-url="http://soundcloud.com/jacksonissirius?utm_source=soundcloud&utm_campaign=share&utm_medium=raw&utm_content=http://soundcloud.com/jacksonissirius" target="_blank" title="Share to Email"><span>Email</span></a>
+<a href="[soundcloud url="http://api.soundcloud.com/users/1947729" iframe="true" /]" class="wordpress  " data-sc-share-type="wordpress" data-sc-url="http://soundcloud.com/jacksonissirius?utm_source=soundcloud&utm_campaign=share&utm_medium=raw&utm_content=http://soundcloud.com/jacksonissirius" target="_blank" title="Share to WordPress"><span>WordPress</span></a>
+<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius%3Futm_source%3Dsoundcloud%26utm_campaign%3Dshare%26utm_medium%3Dstumbleupon%26utm_content%3Dhttp%3A%2F%2Fsoundcloud.com%2Fjacksonissirius&title=Sirius+Jack%21+-+SoundCloud" class="stumbleupon  popup" data-sc-share-type="stumbleupon" data-sc-url="http://soundcloud.com/jacksonissirius?utm_source=soundcloud&utm_campaign=share&utm_medium=raw&utm_content=http://soundcloud.com/jacksonissirius" target="_blank" title="Share to StumbleUpon"><span>StumbleUpon</span></a>
+<a href="http://blogger.com/blog-this.g?u=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius%3Futm_source%3Dsoundcloud%26utm_campaign%3Dshare%26utm_medium%3Dblogger%26utm_content%3Dhttp%3A%2F%2Fsoundcloud.com%2Fjacksonissirius&n=Sirius+Jack%21" class="blogger  popup" data-sc-share-type="blogger" data-sc-url="http://soundcloud.com/jacksonissirius?utm_source=soundcloud&utm_campaign=share&utm_medium=raw&utm_content=http://soundcloud.com/jacksonissirius" target="_blank" title="Share to Blogger"><span>Blogger</span></a>
+<a href="http://www.myspace.com/index.cfm?fuseaction=postto&t=Sirius+Jack%21&u=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius%3Futm_source%3Dsoundcloud%26utm_campaign%3Dshare%26utm_medium%3Dmyspace%26utm_content%3Dhttp%3A%2F%2Fsoundcloud.com%2Fjacksonissirius&c=http%3A%2F%2Ftwitter.com%2Fsiriusjack%0D%0Ahttp%3A%2F%2Fwww.soundcloud.com%2Fjacksonissirius%0D%0Ahttp%3A%2F%2Fwww.facebook.com%2Fjacksonissirius%0D%0A%0D%0A%3Cmeta+name%3D%22msvalidate.01%22+content%3D%225BFA0FDAEFFED5F2898B1BD50467E684%22+%2F%3E" class="myspace  popup" data-sc-share-type="myspace" data-sc-url="http://soundcloud.com/jacksonissirius?utm_source=soundcloud&utm_campaign=share&utm_medium=raw&utm_content=http://soundcloud.com/jacksonissirius" target="_blank" title="Share to MySpace"><span>MySpace</span></a></div><a href="#" class="expand" onclick="return false;" rel="nofollow">Less</a></div>
+<span class="learnmore">Did you know that you can publish your tracks & favorites automatically to other social networks?
+<a href="/settings/connections">Learn more</a></span>
+<div class="secret-link shortenable" data-sc-long-url="http://soundcloud.com/jacksonissirius"><label class="float" for="secret-users-1947729">
+<strong>Get the link:</strong>
+</label>
+<input class="url auto-select" readonly="readonly" title="Copy the link" type="text" value="http://soundcloud.com/jacksonissirius" />
+<input class="shorten-url public-shorten-url" id="shorten-url-users-1947729" type="checkbox" />
+<label for="shorten-url-users-1947729">
+Make it short
+<span class="spinner">Loading</span>
+</label></div>
+<div class="embed-code-wrapper"><label class="float" for="embed-code-field">
+<strong>Embed Code:</strong>
+</label>
+<input class="url auto-select" id="embed-code-field" readonly="readonly" title="Copy the code" type="text" value='<object height="225" width="100%"> <param name="movie" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1947729"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="225" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1947729" type="application/x-shockwave-flash" width="100%"></embed> </object>  <span><a href="http://soundcloud.com/jacksonissirius">Latest tracks by Sirius Jack!</a></span> ' />
+<div class="html5-wrap"><input class="html5-code public-html5-code" id="html5-code-users-1947729" type="checkbox" />
+<label for="html5-code-users-1947729">Use the HTML5 widget</label>
+<span class="inline-help tiny"><strong class="headline hidden">HTML5 widget</strong>
+<span class="content hidden"><p>The <a href="http://blog.soundcloud.com/2012/01/26/html5-widget/">HTML5 widget</a> is faster, easier to share and you can comment and like the sound right away. Works on mobile too!</p></span></span></div>
+<input id="embed-code-field-flash" type="hidden" value='<object height="225" width="100%"> <param name="movie" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1947729"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="225" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1947729" type="application/x-shockwave-flash" width="100%"></embed> </object>  <span><a href="http://soundcloud.com/jacksonissirius">Latest tracks by Sirius Jack!</a></span> ' />
+<input id="embed-code-field-html5" type="hidden" value='<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1947729&show_artwork=true"></iframe>' />
+<a class="customize-player-link icon-button permissions" href="/customize/user/jacksonissirius" rel="nofollow"><span>Edit your widget</span></a></div></div></div></div></div>
+
+<div class="mute-user-wrapper"></div></div>
+</div>
+<div id="user-tabs"><ul class="tabs"><li class="current first"><a href="/jacksonissirius/spotlight" class="spotlight-count" rel="nofollow">Spotlight</a></li><li class=""><a href="/jacksonissirius/tracks" class="tracks-count">Sounds<abbr> (27)</abbr></a></li><li class=""><a href="/jacksonissirius/sets" class="playlists-count">Sets<abbr> (5)</abbr></a></li><li class=""><a href="/jacksonissirius/comments" class="comments-count">Comments<abbr> (116)</abbr></a></li><li class=""><a href="/jacksonissirius/favorites" class="favorites-count">Favorites<abbr> (89)</abbr></a></li><li class="last"><a href="/jacksonissirius/dropbox/profile" class="dropbox-count">DropBox</a></li></ul></div>
+
+
+<div id="spotlight"><ul><li class="player"><div class="medium mode player" data-sc-track="100125486"><div class="info-header"><a href="http://i1.sndcdn.com/artworks-000052417340-vfrfrd-crop.jpg?aa1a7cb" class="artwork" onclick="return false;" rel="nofollow" style="background:url(http://i1.sndcdn.com/artworks-000052417340-vfrfrd-badge.jpg?aa1a7cb)">Black For Jack! (Original Mix) Artwork</a>
+<h3><a href="/jacksonissirius/black-for-jack-original-mix">Black For Jack! (Original Mix)</a></h3>
+<span class="subtitle" itemprop="byArtist" itemscope="itemscope" itemtype="http://schema.org/MusicGroup"><span class="user tiny"><a href="/jacksonissirius" class="user-name" itemprop="name">Sirius Jack!</a>
+<span class="user-status"></span></span>
+<abbr title='July,  8 2013 05:40:12 +0000' class='pretty-date'>on July 08, 2013 05:40</abbr></span>
+<div class="meta-data"><span class="stats"><span class="plays first" title="199 Plays">199 <span>Plays</span></span><span class="comments" title="14 Comments">14 <span>Comments</span></span><span class="favoritings" title="6 Favoritings">6 <span>Favoritings</span></span></span></div>
+</div>
+<div class="actionbar"><a href="/tags/dubstep"><span class="genre" title="Find more Dubstep tracks">Dubstep</span></a><div class="actions"><div class="primary"><a href="#share" class="share pl-button" onclick="return false;" rel="nofollow" title="Share this on other networks"><span>Share</span></a>
+<div class="share-code hidden action-overlay"><div class="action-overlay-inner"><a href="/jacksonissirius/black-for-jack-original-mix/share-options" class="lazy initial" onclick="return false;" rel="nofollow">Loading sharing options</a></div></div>
+
+<a href="/you/favorites/jacksonissirius/black-for-jack-original-mix" class="pl-button favorite create" onclick="return false;" rel="nofollow"><span>Save to Favorites</span></a>
+<a href="https://itunes.apple.com/us/album/black-for-jack!-single/id685161240" class="shop pl-button" data-sc-permalink="/jacksonissirius/black-for-jack-original-mix" target="_blank">Buy MP3</a></div>
+<div class="hidden download-options action-overlay" data-sc-track="100125486"><div class="action-overlay-inner">This track is not downloadable</div></div></div></div>
+
+<div class="container"><div class="controls"><a href="#play" class="play" onclick="return false;" rel="nofollow">Play</a>
+<div class="timecodes"><span class="editable">0.00</span>
+/
+<span class="duration" title="PT00H05M51S">5.51</span></div></div>
+<div class="display"><div class="progress"></div>
+<img class="waveform" src="http://w1.sndcdn.com/8amVXdNLmVzN_m.png" unselectable="on" />
+<img class="waveform-overlay" src="http://a1.sndcdn.com/images/player-overlay.png?aa1a7cb" unselectable="on" />
+<div class="playhead aural"></div>
+<div class="seekhead hidden"><div><span></span></div></div>
+<ol class="timestamped-comments"><li class="aural template timestamped-comment"><div class="marker" style="width: 1px"></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="34325" style="left: 9.763597213570334%;"><div class="marker" style="width: 1px"><a href="/hyprrdrive" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000045079012-5f34s3-tiny.jpg?aa1a7cb)">HyprrDrive</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="37417" style="left: 10.64310318835138%;"><div class="marker" style="width: 1px"><a href="/keondris" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000034159498-8ozarm-tiny.jpg?aa1a7cb)">Ke'Ondris</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="49753" style="left: 14.152024826417037%;"><div class="marker" style="width: 1px"><a href="/jazzpalafox336-1" class="user-image-tiny">Jazzpalafox336</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="64966" style="left: 18.4792966227767%;"><div class="marker" style="width: 1px"><a href="/emocean" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000046878428-wzjn6a-tiny.jpg?aa1a7cb)">emocean</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="75246" style="left: 21.403397987831415%;"><div class="marker" style="width: 1px"><a href="/syntrexofficial" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000048806526-gt9ca5-tiny.jpg?aa1a7cb)">SYNTREX</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="105673" style="left: 30.05822602620882%;"><div class="marker" style="width: 1px"><a href="/phene" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000023003710-bt65nk-tiny.jpg?aa1a7cb)">Phene</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="114897" style="left: 32.68195277633185%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="216785" style="left: 61.6635519867107%;"><div class="marker" style="width: 1px"><a href="/hyprrdrive" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000045079012-5f34s3-tiny.jpg?aa1a7cb)">HyprrDrive</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="271019" style="left: 77.09017780698086%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="286873" style="left: 81.59977927016934%;"><div class="marker" style="width: 1px"><a href="/cambah" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb)">Cambah;</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="297561" style="left: 84.63993446372038%;"><div class="marker" style="width: 1px"><a href="/cambah" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb)">Cambah;</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="312244" style="left: 88.81645006129804%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="331413" style="left: 94.26898888101923%;"><div class="marker" style="width: 2px"><a href="/kellybarnard" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000022306848-g12a1p-tiny.jpg?aa1a7cb)">Kode-of-Bliss</a></div></li></ol></div>
+<a class="comments-toggle" href="#no-comments" title="Hide the comments">Hide the comments</a></div>
+
+<script type="text/javascript">
+window.SC.bufferTracks.push({"id":100125486,"uid":"8amVXdNLmVzN","user":{"username":"Sirius Jack!","permalink":"jacksonissirius"},"uri":"/jacksonissirius/black-for-jack-original-mix","duration":351561,"token":"9kMPy","name":"black-for-jack-original-mix","title":"Black For Jack! (Original Mix)","commentable":true,"revealComments":true,"commentUri":"/jacksonissirius/black-for-jack-original-mix/comments/","streamUrl":"http://media.soundcloud.com/stream/8amVXdNLmVzN?stream_token=9kMPy","waveformUrl":"http://w1.sndcdn.com/8amVXdNLmVzN_m.png","propertiesUri":"/jacksonissirius/black-for-jack-original-mix/properties/","statusUri":"/transcodings/8amVXdNLmVzN","replacingUid":null,"preprocessingReady":true,"renderingFailed":false,"isPublic":true,"geo":[],"commentableByUser":true,"favorite":false,"followingTrackOwner":false});
+</script>
+<script type="text/javascript">
+window.SC.bufferComments = window.SC.bufferComments.concat([{"id":122516032,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/122516032/","avatar":"http://i1.sndcdn.com/avatars-000045079012-5f34s3-tiny.jpg?aa1a7cb","name":"HyprrDrive","userPermalink":"hyprrdrive","userUri":"/hyprrdrive","userId":2370054,"trackOwnerId":1947729,"created_at":"2013/07/08 06:16:59 +0000","body":"\u003Cp\u003Ediggin that synth man niceee\u003C/p\u003E","timestamp":34325,"track_id":100125486},{"id":123369522,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/123369522/","avatar":"http://i1.sndcdn.com/avatars-000034159498-8ozarm-tiny.jpg?aa1a7cb","name":"Ke'Ondris","userPermalink":"keondris","userUri":"/keondris","userId":2079742,"trackOwnerId":1947729,"created_at":"2013/07/12 23:53:31 +0000","body":"\u003Cp\u003EOh!!!!!!!!!! Snap this right here, this right here is tight!!!!!!\u003C/p\u003E","timestamp":37417,"track_id":100125486},{"id":123365278,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/123365278/","avatar":"http://a1.sndcdn.com/images/default_avatar_tiny.png?aa1a7cb","name":"Jazzpalafox336","userPermalink":"jazzpalafox336-1","userUri":"/jazzpalafox336-1","userId":40917805,"trackOwnerId":1947729,"created_at":"2013/07/12 23:18:55 +0000","body":"\u003Cp\u003Ethe drums at the beginning sound really nice n the drop just kills it :) good track but very hardcore DUbStep\u003C/p\u003E","timestamp":49753,"track_id":100125486},{"id":123365038,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/123365038/","avatar":"http://i1.sndcdn.com/avatars-000046878428-wzjn6a-tiny.jpg?aa1a7cb","name":"emocean","userPermalink":"emocean","userUri":"/emocean","userId":13231,"trackOwnerId":1947729,"created_at":"2013/07/12 23:16:53 +0000","body":"\u003Cp\u003Estrange beat but deffo vibing to it, would be live if it was in a club \u003C/p\u003E","timestamp":64966,"track_id":100125486},{"id":123365884,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/123365884/","avatar":"http://i1.sndcdn.com/avatars-000048806526-gt9ca5-tiny.jpg?aa1a7cb","name":"SYNTREX","userPermalink":"syntrexofficial","userUri":"/syntrexofficial","userId":27269489,"trackOwnerId":1947729,"created_at":"2013/07/12 23:23:05 +0000","body":"\u003Cp\u003Elove the bass patch only thing i could have suggested would have been a lil better mix down the kick sounds kinda hidden at times otherwise killer track\u003C/p\u003E","timestamp":75246,"track_id":100125486},{"id":123365516,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/123365516/","avatar":"http://i1.sndcdn.com/avatars-000023003710-bt65nk-tiny.jpg?aa1a7cb","name":"Phene","userPermalink":"phene","userUri":"/phene","userId":483631,"trackOwnerId":1947729,"created_at":"2013/07/12 23:20:36 +0000","body":"\u003Cp\u003EReminds me of the feel of some Transformers Theme Music... not a bad thing! \u003C/p\u003E","timestamp":105673,"track_id":100125486},{"id":125195922,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/125195922/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/07/23 22:29:35 +0000","body":"\u003Cp\u003Ethe mix def needs some work, you have a over full sounding mix, let things breath a little. There is no really low end in the mix. With bass music you really want to feel that low ed.\u003C/p\u003E","timestamp":114897,"track_id":100125486},{"id":122516287,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/122516287/","avatar":"http://i1.sndcdn.com/avatars-000045079012-5f34s3-tiny.jpg?aa1a7cb","name":"HyprrDrive","userPermalink":"hyprrdrive","userUri":"/hyprrdrive","userId":2370054,"trackOwnerId":1947729,"created_at":"2013/07/08 06:20:12 +0000","body":"\u003Cp\u003Egetting better with the writing melodies :)\u003C/p\u003E","timestamp":216785,"track_id":100125486},{"id":125196579,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/125196579/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/07/23 22:34:04 +0000","body":"\u003Cp\u003Ereally take some time with the mix, try pulling all the elements down to silence and then have another go. I feel 90% of your tracks you post in the group lack a solid mix. Try testing the track out on every set of speakers you can find. Also once you think the track is 100% done leave it for a week without listening to it and then come back and see how it sounds.\u003C/p\u003E","timestamp":271019,"track_id":100125486},{"id":125274299,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/125274299/","avatar":"http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb","name":"Cambah;","userPermalink":"cambah","userUri":"/cambah","userId":1081153,"trackOwnerId":1947729,"created_at":"2013/07/24 11:27:35 +0000","body":"\u003Cp\u003Estill love your grime dubstep stuff man \u0026lt;3\u003C/p\u003E","timestamp":286873,"track_id":100125486},{"id":125274360,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/125274360/","avatar":"http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb","name":"Cambah;","userPermalink":"cambah","userUri":"/cambah","userId":1081153,"trackOwnerId":1947729,"created_at":"2013/07/24 11:28:06 +0000","body":"\u003Cp\u003Eneeds some variation though, a breakdown and a drop would be nice\u003C/p\u003E","timestamp":297561,"track_id":100125486},{"id":125196591,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/125196591/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/07/23 22:34:08 +0000","body":"\u003Cp\u003Eplease listen and give feedback on at least two other tracks in the group before posting another track to the group.\u003C/p\u003E","timestamp":312244,"track_id":100125486},{"id":123366578,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/123366578/","avatar":"http://i1.sndcdn.com/avatars-000022306848-g12a1p-tiny.jpg?aa1a7cb","name":"Kode-of-Bliss","userPermalink":"kellybarnard","userUri":"/kellybarnard","userId":4157153,"trackOwnerId":1947729,"created_at":"2013/07/12 23:28:32 +0000","body":"\u003Cp\u003ELove all the panning action here at the end. This was actually pretty relaxing dubsteb. Nice progression. Wobs are well done. beats move the track. Nice dub.\u003C/p\u003E","timestamp":331413,"track_id":100125486},{"id":123374047,"uri":"/jacksonissirius/black-for-jack-original-mix/comments/123374047/","avatar":"http://i1.sndcdn.com/avatars-000040683826-1mwolf-tiny.jpg?aa1a7cb","name":"Sirius Jack!","userPermalink":"jacksonissirius","userUri":"/jacksonissirius","userId":1947729,"trackOwnerId":1947729,"created_at":"2013/07/13 00:33:03 +0000","body":"\u003Cp\u003E@\u003Ca href=\"http://soundcloud.com/kellybarnard\" rel=\"nofollow\" target=\"_blank\"\u003EKode-of-Bliss\u003C/a\u003E: thanks dude!  I  appreciate it a bunch\u003C/p\u003E","timestamp":331413,"track_id":100125486}]);
+window.SC.bufferTracks[window.SC.bufferTracks.length - 1].conversations = {"34325":[122516032],"37417":[123369522],"49753":[123365278],"64966":[123365038],"75246":[123365884],"105673":[123365516],"114897":[125195922],"216785":[122516287],"271019":[125196579],"286873":[125274299],"297561":[125274360],"312244":[125196591],"331413":[123366578,123374047]};
+</script></div></li>
+
+<li class="player"><div class="medium mode player" data-sc-track="92723803"><div class="info-header"><a href="http://i1.sndcdn.com/artworks-000048320674-oz7ncj-crop.jpg?aa1a7cb" class="artwork" onclick="return false;" rel="nofollow" style="background:url(http://i1.sndcdn.com/artworks-000048320674-oz7ncj-badge.jpg?aa1a7cb)">Sirius Jack! - Vanish (Original Mix) Artwork</a>
+<h3><a href="/jacksonissirius/sirius-jack-vanish-original">Sirius Jack! - Vanish (Original Mix)</a></h3>
+<span class="subtitle" itemprop="byArtist" itemscope="itemscope" itemtype="http://schema.org/MusicGroup"><span class="user tiny"><a href="/jacksonissirius" class="user-name" itemprop="name">Sirius Jack!</a>
+<span class="user-status"></span></span>
+<abbr title='May, 18 2013 03:40:51 +0000' class='pretty-date'>on May 18, 2013 03:40</abbr></span>
+<div class="meta-data"><span class="stats"><span class="plays first" title="222 Plays">222 <span>Plays</span></span><span class="comments" title="13 Comments">13 <span>Comments</span></span><span class="favoritings" title="3 Favoritings">3 <span>Favoritings</span></span><span class="downloads" title="2 Downloads">2 <span>Downloads</span></span></span></div>
+</div>
+<div class="actionbar"><a href="/tags/neurofunk-drum-and-bass"><span class="genre" title="Find more Neurofunk Drum and Bass tracks">Neurofunk Drum and Bass</span></a><div class="actions"><div class="primary"><a href="#share" class="share pl-button" onclick="return false;" rel="nofollow" title="Share this on other networks"><span>Share</span></a>
+<div class="share-code hidden action-overlay"><div class="action-overlay-inner"><a href="/jacksonissirius/sirius-jack-vanish-original/share-options" class="lazy initial" onclick="return false;" rel="nofollow">Loading sharing options</a></div></div>
+
+<a href="/you/favorites/jacksonissirius/sirius-jack-vanish-original" class="pl-button favorite create" onclick="return false;" rel="nofollow"><span>Save to Favorites</span></a>
+<a href="/jacksonissirius/sirius-jack-vanish-original/download" class="download pl-button" rel="nofollow" title="The file you're about to download has a size of 53.61 MB"><span>Download</span></a>
+<a href="https://itunes.apple.com/us/album/vanish-single/id685160485" class="shop pl-button" data-sc-permalink="/jacksonissirius/sirius-jack-vanish-original" target="_blank">Buy</a></div>
+<div class="hidden download-options action-overlay" data-sc-track="92723803"><div class="action-overlay-inner"><a href="/jacksonissirius/sirius-jack-vanish-original/download" class="icon-button download" rel="nofollow"><span>Download</span></a>
+<span class="file-type">aiff</span>
+<span class="content-size">53.61 MB</span></div></div></div></div>
+
+<div class="container"><div class="controls"><a href="#play" class="play" onclick="return false;" rel="nofollow">Play</a>
+<div class="timecodes"><span class="editable">0.00</span>
+/
+<span class="duration" title="PT00H05M18S">5.18</span></div></div>
+<div class="display"><div class="progress"></div>
+<img class="waveform" src="http://w1.sndcdn.com/3yU9NDOVLj2n_m.png" unselectable="on" />
+<img class="waveform-overlay" src="http://a1.sndcdn.com/images/player-overlay.png?aa1a7cb" unselectable="on" />
+<div class="playhead aural"></div>
+<div class="seekhead hidden"><div><span></span></div></div>
+<ol class="timestamped-comments"><li class="aural template timestamped-comment"><div class="marker" style="width: 1px"></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="44022" style="left: 13.810866857621514%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="47298" style="left: 14.838634787873845%;"><div class="marker" style="width: 1px"><a href="/indigenous-ninjas" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000033045906-lgfaj9-tiny.jpg?aa1a7cb)">Indigenous Ninjas</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="52059" style="left: 16.33228653266363%;"><div class="marker" style="width: 1px"><a href="/pierre-verbakel" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000035123455-bj24r4-tiny.jpg?aa1a7cb)">Pierre Verbakel</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="67255" style="left: 21.09967403819306%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="85563" style="left: 26.843378332167315%;"><div class="marker" style="width: 1px"><a href="/zakiimusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb)">ZAKII</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="92527" style="left: 29.028169500139608%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="101087" style="left: 31.713668121311752%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="105392" style="left: 33.064260593758725%;"><div class="marker" style="width: 1px"><a href="/iamnymus" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000047682290-wndjv8-tiny.jpg?aa1a7cb)">Nymus</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="124777" style="left: 39.14584830070055%;"><div class="marker" style="width: 1px"><a href="/djmorlov" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000006625961-r4u1dl-tiny.jpg?aa1a7cb)">MOrlov</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="140228" style="left: 43.99323605721116%;"><div class="marker" style="width: 1px"><a href="/zakiimusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb)">ZAKII</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="225791" style="left: 70.83661438937848%;"><div class="marker" style="width: 1px"><a href="/zakiimusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb)">ZAKII</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="274320" style="left: 86.06144646728303%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="302445" style="left: 94.88500356079548%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li></ol></div>
+<a class="comments-toggle" href="#no-comments" title="Hide the comments">Hide the comments</a></div>
+
+<script type="text/javascript">
+window.SC.bufferTracks.push({"id":92723803,"uid":"3yU9NDOVLj2n","user":{"username":"Sirius Jack!","permalink":"jacksonissirius"},"uri":"/jacksonissirius/sirius-jack-vanish-original","duration":318749,"token":"wIxoz","name":"sirius-jack-vanish-original","title":"Sirius Jack! - Vanish (Original Mix)","commentable":true,"revealComments":true,"commentUri":"/jacksonissirius/sirius-jack-vanish-original/comments/","streamUrl":"http://media.soundcloud.com/stream/3yU9NDOVLj2n?stream_token=wIxoz","waveformUrl":"http://w1.sndcdn.com/3yU9NDOVLj2n_m.png","propertiesUri":"/jacksonissirius/sirius-jack-vanish-original/properties/","statusUri":"/transcodings/3yU9NDOVLj2n","replacingUid":null,"preprocessingReady":true,"renderingFailed":false,"isPublic":true,"geo":[],"commentableByUser":true,"favorite":false,"followingTrackOwner":false});
+</script>
+<script type="text/javascript">
+window.SC.bufferComments = window.SC.bufferComments.concat([{"id":116445057,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/116445057/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/06/03 00:14:27 +0000","body":"\u003Cp\u003Enice little breakdown\u003C/p\u003E","timestamp":44022,"track_id":92723803},{"id":114292129,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/114292129/","avatar":"http://i1.sndcdn.com/avatars-000033045906-lgfaj9-tiny.jpg?aa1a7cb","name":"Indigenous Ninjas","userPermalink":"indigenous-ninjas","userUri":"/indigenous-ninjas","userId":35181434,"trackOwnerId":1947729,"created_at":"2013/05/22 00:23:27 +0000","body":"\u003Cp\u003Esmooth!!!! thanks 4 the comments we jst have a maschine and a laptop:) 2:13 badass!!!!\u003C/p\u003E","timestamp":47298,"track_id":92723803},{"id":122935534,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/122935534/","avatar":"http://i1.sndcdn.com/avatars-000035123455-bj24r4-tiny.jpg?aa1a7cb","name":"Pierre Verbakel","userPermalink":"pierre-verbakel","userUri":"/pierre-verbakel","userId":19628477,"trackOwnerId":1947729,"created_at":"2013/07/10 15:09:13 +0000","body":"\u003Cp\u003ENice sounds!!\u003C/p\u003E","timestamp":52059,"track_id":92723803},{"id":116445108,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/116445108/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/06/03 00:14:57 +0000","body":"\u003Cp\u003Ethe transition is a little weird\u003C/p\u003E","timestamp":67255,"track_id":92723803},{"id":117881557,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/117881557/","avatar":"http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb","name":"ZAKII","userPermalink":"zakiimusic","userUri":"/zakiimusic","userId":2425901,"trackOwnerId":1947729,"created_at":"2013/06/11 02:02:01 +0000","body":"\u003Cp\u003Efilter out the lows for the build so the drop hits harder\u003C/p\u003E","timestamp":85563,"track_id":92723803},{"id":116445179,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/116445179/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/06/03 00:15:31 +0000","body":"\u003Cp\u003Edef needs some more meat in the kick and also attack on the kick.\u003C/p\u003E","timestamp":92527,"track_id":92723803},{"id":116445240,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/116445240/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/06/03 00:16:02 +0000","body":"\u003Cp\u003Eand the snare needs some work to make it punchier \u003C/p\u003E","timestamp":101087,"track_id":92723803},{"id":116505528,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/116505528/","avatar":"http://i1.sndcdn.com/avatars-000047682290-wndjv8-tiny.jpg?aa1a7cb","name":"Nymus","userPermalink":"iamnymus","userUri":"/iamnymus","userId":1082092,"trackOwnerId":1947729,"created_at":"2013/06/03 11:03:43 +0000","body":"\u003Cp\u003Ecool sounds but need more love on the EQ part\u003C/p\u003E","timestamp":105392,"track_id":92723803},{"id":117327539,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/117327539/","avatar":"http://i1.sndcdn.com/avatars-000006625961-r4u1dl-tiny.jpg?aa1a7cb","name":"MOrlov","userPermalink":"djmorlov","userUri":"/djmorlov","userId":2414061,"trackOwnerId":1947729,"created_at":"2013/06/07 18:49:25 +0000","body":"\u003Cp\u003Eit sounds to me like drums are completely buried under synths when it should be smacking in the face\u003C/p\u003E","timestamp":124777,"track_id":92723803},{"id":117881662,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/117881662/","avatar":"http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb","name":"ZAKII","userPermalink":"zakiimusic","userUri":"/zakiimusic","userId":2425901,"trackOwnerId":1947729,"created_at":"2013/06/11 02:02:57 +0000","body":"\u003Cp\u003Enice stereo width on the basses\u003C/p\u003E","timestamp":140228,"track_id":92723803},{"id":117881862,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/117881862/","avatar":"http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb","name":"ZAKII","userPermalink":"zakiimusic","userUri":"/zakiimusic","userId":2425901,"trackOwnerId":1947729,"created_at":"2013/06/11 02:05:01 +0000","body":"\u003Cp\u003Ebut this bass is too centered, stick with your stereo technique for the other basses I commented on\u003C/p\u003E","timestamp":225791,"track_id":92723803},{"id":116445487,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/116445487/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/06/03 00:18:23 +0000","body":"\u003Cp\u003EI like some of the sounds in your track. I just think that it lacks a real hook. You have a cool breakdown I would build on that idea and try and run it as a theme through the track. Also the mix needs a little more work. DnB needs to have those drums locked. Keep up the good work though.\u003C/p\u003E","timestamp":274320,"track_id":92723803},{"id":116445535,"uri":"/jacksonissirius/sirius-jack-vanish-original/comments/116445535/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/06/03 00:18:53 +0000","body":"\u003Cp\u003Edon't forget to listen and leave feedback to the other tracks in the group (not my tracks)\u003C/p\u003E","timestamp":302445,"track_id":92723803}]);
+window.SC.bufferTracks[window.SC.bufferTracks.length - 1].conversations = {"44022":[116445057],"47298":[114292129],"52059":[122935534],"67255":[116445108],"85563":[117881557],"92527":[116445179],"101087":[116445240],"105392":[116505528],"124777":[117327539],"140228":[117881662],"225791":[117881862],"274320":[116445487],"302445":[116445535]};
+</script></div></li>
+
+<li class="player"><div class="medium mode player" data-sc-track="90361282"><div class="info-header"><a href="http://i1.sndcdn.com/artworks-000047482152-rdl5ti-crop.jpg?aa1a7cb" class="artwork" onclick="return false;" rel="nofollow" style="background:url(http://i1.sndcdn.com/artworks-000047482152-rdl5ti-badge.jpg?aa1a7cb)">Sirius Jack! - Lisa (Original Mix) Artwork</a>
+<h3><a href="/jacksonissirius/01-sirius-jack-lisa-original">Sirius Jack! - Lisa (Original Mix)</a></h3>
+<span class="subtitle" itemprop="byArtist" itemscope="itemscope" itemtype="http://schema.org/MusicGroup"><span class="user tiny"><a href="/jacksonissirius" class="user-name" itemprop="name">Sirius Jack!</a>
+<span class="user-status"></span></span>
+<abbr title='May,  1 2013 22:36:16 +0000' class='pretty-date'>on May 01, 2013 22:36</abbr></span>
+<div class="meta-data"><span class="stats"><span class="plays first" title="203 Plays">203 <span>Plays</span></span><span class="comments" title="13 Comments">13 <span>Comments</span></span><span class="favoritings" title="3 Favoritings">3 <span>Favoritings</span></span><span class="downloads" title="5 Downloads">5 <span>Downloads</span></span></span></div>
+</div>
+<div class="actionbar"><a href="/tags/dubstep"><span class="genre" title="Find more Dubstep tracks">Dubstep</span></a><div class="actions"><div class="primary"><a href="#share" class="share pl-button" onclick="return false;" rel="nofollow" title="Share this on other networks"><span>Share</span></a>
+<div class="share-code hidden action-overlay"><div class="action-overlay-inner"><a href="/jacksonissirius/01-sirius-jack-lisa-original/share-options" class="lazy initial" onclick="return false;" rel="nofollow">Loading sharing options</a></div></div>
+
+<a href="/you/favorites/jacksonissirius/01-sirius-jack-lisa-original" class="pl-button favorite create" onclick="return false;" rel="nofollow"><span>Save to Favorites</span></a>
+<a href="https://itunes.apple.com/us/album/lisa-original-mix/id644979993?i=644980347" class="shop pl-button" data-sc-permalink="/jacksonissirius/01-sirius-jack-lisa-original" target="_blank">Buy This</a></div>
+<div class="hidden download-options action-overlay" data-sc-track="90361282"><div class="action-overlay-inner">This track is not downloadable</div></div></div></div>
+
+<div class="container"><div class="controls"><a href="#play" class="play" onclick="return false;" rel="nofollow">Play</a>
+<div class="timecodes"><span class="editable">0.00</span>
+/
+<span class="duration" title="PT00H05M30S">5.30</span></div></div>
+<div class="display"><div class="progress"></div>
+<img class="waveform" src="http://w1.sndcdn.com/fVqN9R8Zgvor_m.png" unselectable="on" />
+<img class="waveform-overlay" src="http://a1.sndcdn.com/images/player-overlay.png?aa1a7cb" unselectable="on" />
+<div class="playhead aural"></div>
+<div class="seekhead hidden"><div><span></span></div></div>
+<ol class="timestamped-comments"><li class="aural template timestamped-comment"><div class="marker" style="width: 1px"></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="7398" style="left: 2.239802359694457%;"><div class="marker" style="width: 1px"><a href="/cambah" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb)">Cambah;</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="21780" style="left: 6.594065341192926%;"><div class="marker" style="width: 1px"><a href="/joey-mf-bellamonte" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000038775749-aodlvr-tiny.jpg?aa1a7cb)">JoeyCraze</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="29556" style="left: 8.948310157222137%;"><div class="marker" style="width: 1px"><a href="/eljeffe09" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000031275052-tc8na8-tiny.jpg?aa1a7cb)">T8SK1LLA</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="63831" style="left: 19.32533447170274%;"><div class="marker" style="width: 1px"><a href="/kandi-hippie-official" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000045556722-gpynis-tiny.jpg?aa1a7cb)">Kandi Hippie</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="77194" style="left: 23.37108723361096%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="93119" style="left: 28.19250553289918%;"><div class="marker" style="width: 1px"><a href="/eljeffe09" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000031275052-tc8na8-tiny.jpg?aa1a7cb)">T8SK1LLA</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="121286" style="left: 36.72028507676425%;"><div class="marker" style="width: 1px"><a href="/eljeffe09" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000031275052-tc8na8-tiny.jpg?aa1a7cb)">T8SK1LLA</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="136610" style="left: 41.359745925636624%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="148837" style="left: 45.061565802898606%;"><div class="marker" style="width: 1px"><a href="/zakiimusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb)">ZAKII</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="205048" style="left: 62.0798856786468%;"><div class="marker" style="width: 1px"><a href="/cambah" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb)">Cambah;</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="227244" style="left: 68.79989827337215%;"><div class="marker" style="width: 1px"><a href="/cambah" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb)">Cambah;</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="305033" style="left: 92.351126410473%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="320940" style="left: 97.16709506898337%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li></ol></div>
+<a class="comments-toggle" href="#no-comments" title="Hide the comments">Hide the comments</a></div>
+
+<script type="text/javascript">
+window.SC.bufferTracks.push({"id":90361282,"uid":"fVqN9R8Zgvor","user":{"username":"Sirius Jack!","permalink":"jacksonissirius"},"uri":"/jacksonissirius/01-sirius-jack-lisa-original","duration":330297,"token":"RA6bV","name":"01-sirius-jack-lisa-original","title":"Sirius Jack! - Lisa (Original Mix)","commentable":true,"revealComments":true,"commentUri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/","streamUrl":"http://media.soundcloud.com/stream/fVqN9R8Zgvor?stream_token=RA6bV","waveformUrl":"http://w1.sndcdn.com/fVqN9R8Zgvor_m.png","propertiesUri":"/jacksonissirius/01-sirius-jack-lisa-original/properties/","statusUri":"/transcodings/fVqN9R8Zgvor","replacingUid":null,"preprocessingReady":true,"renderingFailed":false,"isPublic":true,"geo":[],"commentableByUser":true,"favorite":false,"followingTrackOwner":false});
+</script>
+<script type="text/javascript">
+window.SC.bufferComments = window.SC.bufferComments.concat([{"id":114010914,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/114010914/","avatar":"http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb","name":"Cambah;","userPermalink":"cambah","userUri":"/cambah","userId":1081153,"trackOwnerId":1947729,"created_at":"2013/05/20 14:20:02 +0000","body":"\u003Cp\u003ELove your stuff as always. Nice to see this on iTunes!\u003C/p\u003E","timestamp":7398,"track_id":90361282},{"id":111492683,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/111492683/","avatar":"http://i1.sndcdn.com/avatars-000038775749-aodlvr-tiny.jpg?aa1a7cb","name":"JoeyCraze","userPermalink":"joey-mf-bellamonte","userUri":"/joey-mf-bellamonte","userId":38952052,"trackOwnerId":1947729,"created_at":"2013/05/06 03:23:15 +0000","body":"\u003Cp\u003EMY NIGGGGGGGAAAAA :0\u003C/p\u003E","timestamp":21780,"track_id":90361282},{"id":112903511,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/112903511/","avatar":"http://i1.sndcdn.com/avatars-000031275052-tc8na8-tiny.jpg?aa1a7cb","name":"T8SK1LLA","userPermalink":"eljeffe09","userUri":"/eljeffe09","userId":7858401,"trackOwnerId":1947729,"created_at":"2013/05/14 05:06:00 +0000","body":"\u003Cp\u003Ejax.... there it is!!!\u003C/p\u003E","timestamp":29556,"track_id":90361282},{"id":110799217,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/110799217/","avatar":"http://i1.sndcdn.com/avatars-000045556722-gpynis-tiny.jpg?aa1a7cb","name":"Kandi Hippie","userPermalink":"kandi-hippie-official","userUri":"/kandi-hippie-official","userId":6994695,"trackOwnerId":1947729,"created_at":"2013/05/01 23:06:58 +0000","body":"\u003Cp\u003EOh, here we go :)\u003C/p\u003E","timestamp":63831,"track_id":90361282},{"id":113854160,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/113854160/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/05/19 15:21:17 +0000","body":"\u003Cp\u003Ei really digging the low bass but it's killing the kick.\u003C/p\u003E","timestamp":77194,"track_id":90361282},{"id":112903583,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/112903583/","avatar":"http://i1.sndcdn.com/avatars-000031275052-tc8na8-tiny.jpg?aa1a7cb","name":"T8SK1LLA","userPermalink":"eljeffe09","userUri":"/eljeffe09","userId":7858401,"trackOwnerId":1947729,"created_at":"2013/05/14 05:06:47 +0000","body":"\u003Cp\u003Eand my partner is droppin plates\u003C/p\u003E","timestamp":93119,"track_id":90361282},{"id":112903637,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/112903637/","avatar":"http://i1.sndcdn.com/avatars-000031275052-tc8na8-tiny.jpg?aa1a7cb","name":"T8SK1LLA","userPermalink":"eljeffe09","userUri":"/eljeffe09","userId":7858401,"trackOwnerId":1947729,"created_at":"2013/05/14 05:07:32 +0000","body":"\u003Cp\u003Emy symphonic synopsis can be of major use here\u003C/p\u003E","timestamp":121286,"track_id":90361282},{"id":113854254,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/113854254/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/05/19 15:22:03 +0000","body":"\u003Cp\u003Enice synth fill\u003C/p\u003E","timestamp":136610,"track_id":90361282},{"id":114718319,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/114718319/","avatar":"http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb","name":"ZAKII","userPermalink":"zakiimusic","userUri":"/zakiimusic","userId":2425901,"trackOwnerId":1947729,"created_at":"2013/05/24 08:42:11 +0000","body":"\u003Cp\u003Espread the hi's of those basses out, maybe add some chorus\u003C/p\u003E","timestamp":148837,"track_id":90361282},{"id":114010989,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/114010989/","avatar":"http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb","name":"Cambah;","userPermalink":"cambah","userUri":"/cambah","userId":1081153,"trackOwnerId":1947729,"created_at":"2013/05/20 14:20:30 +0000","body":"\u003Cp\u003EThe flanged FX are really cool\u003C/p\u003E","timestamp":205048,"track_id":90361282},{"id":114011034,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/114011034/","avatar":"http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb","name":"Cambah;","userPermalink":"cambah","userUri":"/cambah","userId":1081153,"trackOwnerId":1947729,"created_at":"2013/05/20 14:20:45 +0000","body":"\u003Cp\u003ENice orchestral sounds!\u003C/p\u003E","timestamp":227244,"track_id":90361282},{"id":113854508,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/113854508/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/05/19 15:23:48 +0000","body":"\u003Cp\u003EI must say this is one of your better tracks you have posted up in the group. I think with some more work on the mix to get all those synth elements rocking it will sound very nice. Also really work on the drums that kick and snare shouldn't get eaten up by the synths. Keep it up.\u003C/p\u003E","timestamp":305033,"track_id":90361282},{"id":113854516,"uri":"/jacksonissirius/01-sirius-jack-lisa-original/comments/113854516/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/05/19 15:23:51 +0000","body":"\u003Cp\u003Edon't forget to listen and give feedback to the other tracks in the group (not my tracks)\u003C/p\u003E","timestamp":320940,"track_id":90361282}]);
+window.SC.bufferTracks[window.SC.bufferTracks.length - 1].conversations = {"7398":[114010914],"21780":[111492683],"29556":[112903511],"63831":[110799217],"77194":[113854160],"93119":[112903583],"121286":[112903637],"136610":[113854254],"148837":[114718319],"205048":[114010989],"227244":[114011034],"305033":[113854508],"320940":[113854516]};
+</script></div></li>
+
+<li class="player"><div class="medium mode player" data-sc-track="81243814"><div class="info-header"><h3><a href="/jacksonissirius/sirius-jack-sinatra-shot-ya">Sirius Jack! - Sinatra Shot Ya. (Original Mix)</a></h3>
+<span class="subtitle" itemprop="byArtist" itemscope="itemscope" itemtype="http://schema.org/MusicGroup"><span class="user tiny"><a href="/jacksonissirius" class="user-name" itemprop="name">Sirius Jack!</a>
+<span class="user-status"></span></span>
+<abbr title='February, 28 2013 20:22:55 +0000' class='pretty-date'>on February 28, 2013 20:22</abbr></span>
+<div class="meta-data"><span class="stats"><span class="plays first" title="210 Plays">210 <span>Plays</span></span><span class="comments" title="13 Comments">13 <span>Comments</span></span><span class="favoritings" title="5 Favoritings">5 <span>Favoritings</span></span><span class="downloads" title="17 Downloads">17 <span>Downloads</span></span></span></div>
+</div>
+<div class="actionbar"><a href="/tags/darkstep"><span class="genre" title="Find more Darkstep tracks">Darkstep</span></a><div class="actions"><div class="primary"><a href="#share" class="share pl-button" onclick="return false;" rel="nofollow" title="Share this on other networks"><span>Share</span></a>
+<div class="share-code hidden action-overlay"><div class="action-overlay-inner"><a href="/jacksonissirius/sirius-jack-sinatra-shot-ya/share-options" class="lazy initial" onclick="return false;" rel="nofollow">Loading sharing options</a></div></div>
+
+<a href="/you/favorites/jacksonissirius/sirius-jack-sinatra-shot-ya" class="pl-button favorite create" onclick="return false;" rel="nofollow"><span>Save to Favorites</span></a>
+<a href="/jacksonissirius/sirius-jack-sinatra-shot-ya/download" class="download pl-button" rel="nofollow" title="The file you're about to download has a size of 11.12 MB"><span>Download</span></a>
+<a href="http://www.facebook.com/jacksonissirius" class="shop pl-button" data-sc-permalink="/jacksonissirius/sirius-jack-sinatra-shot-ya" target="_blank">Facebook</a></div>
+<div class="hidden download-options action-overlay" data-sc-track="81243814"><div class="action-overlay-inner"><a href="/jacksonissirius/sirius-jack-sinatra-shot-ya/download" class="icon-button download" rel="nofollow"><span>Download</span></a>
+<span class="file-type">mp3</span>
+<span class="content-size">11.12 MB</span></div></div></div></div>
+
+<div class="container"><div class="controls"><a href="#play" class="play" onclick="return false;" rel="nofollow">Play</a>
+<div class="timecodes"><span class="editable">0.00</span>
+/
+<span class="duration" title="PT00H04M48S">4.48</span></div></div>
+<div class="display"><div class="progress"></div>
+<img class="waveform" src="http://w1.sndcdn.com/uyWD7IAQEdOl_m.png" unselectable="on" />
+<img class="waveform-overlay" src="http://a1.sndcdn.com/images/player-overlay.png?aa1a7cb" unselectable="on" />
+<div class="playhead aural"></div>
+<div class="seekhead hidden"><div><span></span></div></div>
+<ol class="timestamped-comments"><li class="aural template timestamped-comment"><div class="marker" style="width: 1px"></div></li>
+<li class="timestamped-comment track-owner" data-sc-comment-timestamp="0" style="left: 0.0%;"><div class="marker" style="width: 1px"><a href="/jacksonissirius" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000040683826-1mwolf-tiny.jpg?aa1a7cb)">Sirius Jack!</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="45205" style="left: 15.674899702140497%;"><div class="marker" style="width: 1px"><a href="/zakiimusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb)">ZAKII</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="56484" style="left: 19.58590940771383%;"><div class="marker" style="width: 2px"><a href="/cambah" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb)">Cambah;</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="72301" style="left: 25.07047723403296%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="87949" style="left: 30.4964440637884%;"><div class="marker" style="width: 1px"><a href="/kyle-jamesparsons" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000031978215-z1zcmy-tiny.jpg?aa1a7cb)">Skyle!</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="111295" style="left: 38.591703624593%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="173470" style="left: 60.15097558522977%;"><div class="marker" style="width: 1px"><a href="/zakiimusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb)">ZAKII</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="248853" style="left: 86.29014081576749%;"><div class="marker" style="width: 1px"><a href="/s9dubstep" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000025631324-uznj7y-tiny.jpg?aa1a7cb)">s9dubstep</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="255490" style="left: 88.59153024886352%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="276205" style="left: 95.77448672115288%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li></ol></div>
+<a class="comments-toggle" href="#no-comments" title="Hide the comments">Hide the comments</a></div>
+
+<script type="text/javascript">
+window.SC.bufferTracks.push({"id":81243814,"uid":"uyWD7IAQEdOl","user":{"username":"Sirius Jack!","permalink":"jacksonissirius"},"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya","duration":288391,"token":"GAWal","name":"sirius-jack-sinatra-shot-ya","title":"Sirius Jack! - Sinatra Shot Ya. (Original Mix)","commentable":true,"revealComments":true,"commentUri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/","streamUrl":"http://media.soundcloud.com/stream/uyWD7IAQEdOl?stream_token=GAWal","waveformUrl":"http://w1.sndcdn.com/uyWD7IAQEdOl_m.png","propertiesUri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/properties/","statusUri":"/transcodings/uyWD7IAQEdOl","replacingUid":null,"preprocessingReady":true,"renderingFailed":false,"isPublic":true,"geo":[],"commentableByUser":true,"favorite":false,"followingTrackOwner":false});
+</script>
+<script type="text/javascript">
+window.SC.bufferComments = window.SC.bufferComments.concat([{"id":101132212,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/101132212/","avatar":"http://i1.sndcdn.com/avatars-000040683826-1mwolf-tiny.jpg?aa1a7cb","name":"Sirius Jack!","userPermalink":"jacksonissirius","userUri":"/jacksonissirius","userId":1947729,"trackOwnerId":1947729,"created_at":"2013/03/05 08:19:46 +0000","body":"\u003Cp\u003EThanks :D\u003C/p\u003E","timestamp":0,"track_id":81243814},{"id":105433438,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/105433438/","avatar":"http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb","name":"ZAKII","userPermalink":"zakiimusic","userUri":"/zakiimusic","userId":2425901,"trackOwnerId":1947729,"created_at":"2013/04/01 02:38:58 +0000","body":"\u003Cp\u003Esounds like you're clipping here a little much\u003C/p\u003E","timestamp":45205,"track_id":81243814},{"id":100455663,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/100455663/","avatar":"http://i1.sndcdn.com/avatars-000048539238-tkdo12-tiny.jpg?aa1a7cb","name":"Cambah;","userPermalink":"cambah","userUri":"/cambah","userId":1081153,"trackOwnerId":1947729,"created_at":"2013/02/28 20:31:25 +0000","body":"\u003Cp\u003Eshit that's a nasty drop\u003C/p\u003E","timestamp":56484,"track_id":81243814},{"id":101132226,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/101132226/","avatar":"http://i1.sndcdn.com/avatars-000040683826-1mwolf-tiny.jpg?aa1a7cb","name":"Sirius Jack!","userPermalink":"jacksonissirius","userUri":"/jacksonissirius","userId":1947729,"trackOwnerId":1947729,"created_at":"2013/03/05 08:19:58 +0000","body":"\u003Cp\u003E@\u003Ca href=\"http://soundcloud.com/cambah\" rel=\"nofollow\" target=\"_blank\"\u003ECambah;\u003C/a\u003E: hahaha glad you like!\u003C/p\u003E","timestamp":56484,"track_id":81243814},{"id":105045243,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/105045243/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/03/29 14:37:12 +0000","body":"\u003Cp\u003Ei love the use of the vocal. I think with some work on the synth programming and helping it to have more groove it will be really nice \u003C/p\u003E","timestamp":72301,"track_id":81243814},{"id":105505786,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/105505786/","avatar":"http://i1.sndcdn.com/avatars-000031978215-z1zcmy-tiny.jpg?aa1a7cb","name":"Skyle!","userPermalink":"kyle-jamesparsons","userUri":"/kyle-jamesparsons","userId":8082732,"trackOwnerId":1947729,"created_at":"2013/04/01 15:44:30 +0000","body":"\u003Cp\u003ELoving the crispiness of the bass. Can't really comment on the track as I'm not a fan of dubstep but I had to comment on that bass! Love it\u003C/p\u003E","timestamp":87949,"track_id":81243814},{"id":105045334,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/105045334/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/03/29 14:37:59 +0000","body":"\u003Cp\u003Emaybe some more volume from the top line synth \u003C/p\u003E","timestamp":111295,"track_id":81243814},{"id":105433570,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/105433570/","avatar":"http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb","name":"ZAKII","userPermalink":"zakiimusic","userUri":"/zakiimusic","userId":2425901,"trackOwnerId":1947729,"created_at":"2013/04/01 02:39:50 +0000","body":"\u003Cp\u003Espread out all your synths more so they're not fighting w/ the vocal and perc\u003C/p\u003E","timestamp":173470,"track_id":81243814},{"id":107125071,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/107125071/","avatar":"http://i1.sndcdn.com/avatars-000025631324-uznj7y-tiny.jpg?aa1a7cb","name":"s9dubstep","userPermalink":"s9dubstep","userUri":"/s9dubstep","userId":2831436,"trackOwnerId":1947729,"created_at":"2013/04/10 19:47:43 +0000","body":"\u003Cp\u003Ethis is by no means a bad track but once you learn how to organize all this chaos a little better you will be nasty!\u003C/p\u003E","timestamp":248853,"track_id":81243814},{"id":105045580,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/105045580/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/03/29 14:39:48 +0000","body":"\u003Cp\u003Esome nice sounds and vocal just less all out crazyness on the synths and more controlled patterns and the track will be really nice.\u003C/p\u003E","timestamp":255490,"track_id":81243814},{"id":105045631,"uri":"/jacksonissirius/sirius-jack-sinatra-shot-ya/comments/105045631/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/03/29 14:40:13 +0000","body":"\u003Cp\u003Edon't forget to listen and give feedback to other tracks in the listening group (not mine)\u003C/p\u003E","timestamp":276205,"track_id":81243814}]);
+window.SC.bufferTracks[window.SC.bufferTracks.length - 1].conversations = {"0":[101132212],"45205":[105433438],"56484":[100455663,101132226],"72301":[105045243],"87949":[105505786],"111295":[105045334],"173470":[105433570],"248853":[107125071],"255490":[105045580],"276205":[105045631]};
+</script></div></li>
+
+<li class="player"><div class="medium mode player" data-sc-track="80030188"><div class="info-header"><h3><a href="/jacksonissirius/01-sirius-jack-prophecy">Sirius Jack! - Prophecy (Original Mix)</a></h3>
+<span class="subtitle" itemprop="byArtist" itemscope="itemscope" itemtype="http://schema.org/MusicGroup"><span class="user tiny"><a href="/jacksonissirius" class="user-name" itemprop="name">Sirius Jack!</a>
+<span class="user-status"></span></span>
+<abbr title='February, 20 2013 06:07:04 +0000' class='pretty-date'>on February 20, 2013 06:07</abbr></span>
+<div class="meta-data"><span class="stats"><span class="plays first" title="146 Plays">146 <span>Plays</span></span><span class="comments" title="13 Comments">13 <span>Comments</span></span><span class="favoritings" title="2 Favoritings">2 <span>Favoritings</span></span><span class="downloads" title="6 Downloads">6 <span>Downloads</span></span></span></div>
+</div>
+<div class="actionbar"><a href="/tags/dubstep"><span class="genre" title="Find more Dubstep tracks">Dubstep</span></a><div class="actions"><div class="primary"><a href="#share" class="share pl-button" onclick="return false;" rel="nofollow" title="Share this on other networks"><span>Share</span></a>
+<div class="share-code hidden action-overlay"><div class="action-overlay-inner"><a href="/jacksonissirius/01-sirius-jack-prophecy/share-options" class="lazy initial" onclick="return false;" rel="nofollow">Loading sharing options</a></div></div>
+
+<a href="/you/favorites/jacksonissirius/01-sirius-jack-prophecy" class="pl-button favorite create" onclick="return false;" rel="nofollow"><span>Save to Favorites</span></a>
+<a href="/jacksonissirius/01-sirius-jack-prophecy/download" class="download pl-button" rel="nofollow" title="The file you're about to download has a size of 12.30 MB"><span>Download</span></a>
+<a href="http://www.facebook.com/jacksonissirius" class="shop pl-button" data-sc-permalink="/jacksonissirius/01-sirius-jack-prophecy" target="_blank">Like Me!</a></div>
+<div class="hidden download-options action-overlay" data-sc-track="80030188"><div class="action-overlay-inner"><a href="/jacksonissirius/01-sirius-jack-prophecy/download" class="icon-button download" rel="nofollow"><span>Download</span></a>
+<span class="file-type">mp3</span>
+<span class="content-size">12.30 MB</span></div></div></div></div>
+
+<div class="container"><div class="controls"><a href="#play" class="play" onclick="return false;" rel="nofollow">Play</a>
+<div class="timecodes"><span class="editable">0.00</span>
+/
+<span class="duration" title="PT00H05M19S">5.19</span></div></div>
+<div class="display"><div class="progress"></div>
+<img class="waveform" src="http://w1.sndcdn.com/yt621IqKjNau_m.png" unselectable="on" />
+<img class="waveform-overlay" src="http://a1.sndcdn.com/images/player-overlay.png?aa1a7cb" unselectable="on" />
+<div class="playhead aural"></div>
+<div class="seekhead hidden"><div><span></span></div></div>
+<ol class="timestamped-comments"><li class="aural template timestamped-comment"><div class="marker" style="width: 1px"></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="29662" style="left: 9.295839091914795%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="90694" style="left: 28.422791133508206%;"><div class="marker" style="width: 1px"><a href="/zakiimusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb)">ZAKII</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="106063" style="left: 33.23931567681744%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="123899" style="left: 38.828978748875706%;"><div class="marker" style="width: 2px"><a href="/dragusebastian" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000033908964-muygo8-tiny.jpg?aa1a7cb)">Dragu Sebastian</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="128834" style="left: 40.375569198562154%;"><div class="marker" style="width: 2px"><a href="/subsidize" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000042943056-mf6kvn-tiny.jpg?aa1a7cb)">Subsidize</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="171744" style="left: 53.82322800221882%;"><div class="marker" style="width: 1px"><a href="/subsidize" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000042943056-mf6kvn-tiny.jpg?aa1a7cb)">Subsidize</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="208641" style="left: 65.38645957710858%;"><div class="marker" style="width: 1px"><a href="/subsidize" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000042943056-mf6kvn-tiny.jpg?aa1a7cb)">Subsidize</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="267851" style="left: 83.94241105146213%;"><div class="marker" style="width: 1px"><a href="/subsidize" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000042943056-mf6kvn-tiny.jpg?aa1a7cb)">Subsidize</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="275057" style="left: 86.2007151609739%;"><div class="marker" style="width: 1px"><a href="/s9dubstep" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000025631324-uznj7y-tiny.jpg?aa1a7cb)">s9dubstep</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="284034" style="left: 89.01403683611782%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li>
+<li class="timestamped-comment" data-sc-comment-timestamp="301112" style="left: 94.36614862937927%;"><div class="marker" style="width: 1px"><a href="/craigwilliamsmusic" class="user-image-tiny" style="background-image: url(http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb)">craigwilliamsmusic</a></div></li></ol></div>
+<a class="comments-toggle" href="#no-comments" title="Hide the comments">Hide the comments</a></div>
+
+<script type="text/javascript">
+window.SC.bufferTracks.push({"id":80030188,"uid":"yt621IqKjNau","user":{"username":"Sirius Jack!","permalink":"jacksonissirius"},"uri":"/jacksonissirius/01-sirius-jack-prophecy","duration":319089,"token":"He5QX","name":"01-sirius-jack-prophecy","title":"Sirius Jack! - Prophecy (Original Mix)","commentable":true,"revealComments":true,"commentUri":"/jacksonissirius/01-sirius-jack-prophecy/comments/","streamUrl":"http://media.soundcloud.com/stream/yt621IqKjNau?stream_token=He5QX","waveformUrl":"http://w1.sndcdn.com/yt621IqKjNau_m.png","propertiesUri":"/jacksonissirius/01-sirius-jack-prophecy/properties/","statusUri":"/transcodings/yt621IqKjNau","replacingUid":null,"preprocessingReady":true,"renderingFailed":false,"isPublic":true,"geo":[],"commentableByUser":true,"favorite":false,"followingTrackOwner":false});
+</script>
+<script type="text/javascript">
+window.SC.bufferComments = window.SC.bufferComments.concat([{"id":105041319,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/105041319/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/03/29 14:08:06 +0000","body":"\u003Cp\u003Enice synth but it looses some impact with the drums at machine gun pace.\u003C/p\u003E","timestamp":29662,"track_id":80030188},{"id":105436729,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/105436729/","avatar":"http://i1.sndcdn.com/avatars-000030872209-dl6qhn-tiny.jpg?aa1a7cb","name":"ZAKII","userPermalink":"zakiimusic","userUri":"/zakiimusic","userId":2425901,"trackOwnerId":1947729,"created_at":"2013/04/01 03:08:44 +0000","body":"\u003Cp\u003Ethat kick needs to be way louder. sidechain if you haven't already\u003C/p\u003E","timestamp":90694,"track_id":80030188},{"id":105041438,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/105041438/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/03/29 14:08:55 +0000","body":"\u003Cp\u003EI would love to hear more groove in the synths and less randomness to help people grab onto the tune.\u003C/p\u003E","timestamp":106063,"track_id":80030188},{"id":100973481,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/100973481/","avatar":"http://i1.sndcdn.com/avatars-000033908964-muygo8-tiny.jpg?aa1a7cb","name":"Dragu Sebastian","userPermalink":"dragusebastian","userUri":"/dragusebastian","userId":21008559,"trackOwnerId":1947729,"created_at":"2013/03/04 09:40:58 +0000","body":"\u003Cp\u003Ebest drums ever.. thanks for free download\u003C/p\u003E","timestamp":123899,"track_id":80030188},{"id":101132192,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/101132192/","avatar":"http://i1.sndcdn.com/avatars-000040683826-1mwolf-tiny.jpg?aa1a7cb","name":"Sirius Jack!","userPermalink":"jacksonissirius","userUri":"/jacksonissirius","userId":1947729,"trackOwnerId":1947729,"created_at":"2013/03/05 08:19:33 +0000","body":"\u003Cp\u003E@\u003Ca href=\"http://soundcloud.com/dragusebastian\" rel=\"nofollow\" target=\"_blank\"\u003EDragu Sebastian\u003C/a\u003E: anytime, thanks for the compliment!\u003C/p\u003E","timestamp":123899,"track_id":80030188},{"id":101120628,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/101120628/","avatar":"http://i1.sndcdn.com/avatars-000042943056-mf6kvn-tiny.jpg?aa1a7cb","name":"Subsidize","userPermalink":"subsidize","userUri":"/subsidize","userId":1850726,"trackOwnerId":1947729,"created_at":"2013/03/05 05:37:48 +0000","body":"\u003Cp\u003ECan I be in your band?\u003C/p\u003E","timestamp":128834,"track_id":80030188},{"id":101132266,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/101132266/","avatar":"http://i1.sndcdn.com/avatars-000040683826-1mwolf-tiny.jpg?aa1a7cb","name":"Sirius Jack!","userPermalink":"jacksonissirius","userUri":"/jacksonissirius","userId":1947729,"trackOwnerId":1947729,"created_at":"2013/03/05 08:20:29 +0000","body":"\u003Cp\u003E@\u003Ca href=\"http://soundcloud.com/subsidize\" rel=\"nofollow\" target=\"_blank\"\u003ESubsidize\u003C/a\u003E: OFC\u003C/p\u003E","timestamp":128834,"track_id":80030188},{"id":101120681,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/101120681/","avatar":"http://i1.sndcdn.com/avatars-000042943056-mf6kvn-tiny.jpg?aa1a7cb","name":"Subsidize","userPermalink":"subsidize","userUri":"/subsidize","userId":1850726,"trackOwnerId":1947729,"created_at":"2013/03/05 05:38:23 +0000","body":"\u003Cp\u003EO.o\u003C/p\u003E","timestamp":171744,"track_id":80030188},{"id":101120750,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/101120750/","avatar":"http://i1.sndcdn.com/avatars-000042943056-mf6kvn-tiny.jpg?aa1a7cb","name":"Subsidize","userPermalink":"subsidize","userUri":"/subsidize","userId":1850726,"trackOwnerId":1947729,"created_at":"2013/03/05 05:39:06 +0000","body":"\u003Cp\u003Ebr34kd0wn\u003C/p\u003E","timestamp":208641,"track_id":80030188},{"id":101120824,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/101120824/","avatar":"http://i1.sndcdn.com/avatars-000042943056-mf6kvn-tiny.jpg?aa1a7cb","name":"Subsidize","userPermalink":"subsidize","userUri":"/subsidize","userId":1850726,"trackOwnerId":1947729,"created_at":"2013/03/05 05:40:00 +0000","body":"\u003Cp\u003EWoah\u003C/p\u003E","timestamp":267851,"track_id":80030188},{"id":107125758,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/107125758/","avatar":"http://i1.sndcdn.com/avatars-000025631324-uznj7y-tiny.jpg?aa1a7cb","name":"s9dubstep","userPermalink":"s9dubstep","userUri":"/s9dubstep","userId":2831436,"trackOwnerId":1947729,"created_at":"2013/04/10 19:52:02 +0000","body":"\u003Cp\u003Ei feel like i hear some really good ideas from you keep it up dude\u003C/p\u003E","timestamp":275057,"track_id":80030188},{"id":105041597,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/105041597/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/03/29 14:10:12 +0000","body":"\u003Cp\u003Esome really great sounds in there. Just some more work on the structure and getting the track to flow a little better and it will be a winner.\u003C/p\u003E","timestamp":284034,"track_id":80030188},{"id":105041608,"uri":"/jacksonissirius/01-sirius-jack-prophecy/comments/105041608/","avatar":"http://i1.sndcdn.com/avatars-000010705445-cdwems-tiny.jpg?aa1a7cb","name":"craigwilliamsmusic","userPermalink":"craigwilliamsmusic","userUri":"/craigwilliamsmusic","userId":24501,"trackOwnerId":1947729,"created_at":"2013/03/29 14:10:16 +0000","body":"\u003Cp\u003Edon't forget to listen and give feedback to other tracks in the listening group (not mine)\u003C/p\u003E","timestamp":301112,"track_id":80030188}]);
+window.SC.bufferTracks[window.SC.bufferTracks.length - 1].conversations = {"29662":[105041319],"90694":[105436729],"106063":[105041438],"123899":[100973481,101132192],"128834":[101120628,101132266],"171744":[101120681],"208641":[101120750],"267851":[101120824],"275057":[107125758],"284034":[105041597],"301112":[105041608]};
+</script></div></li></ul></div>
+
+</div></div></div></div>
+<div id="footer"><div class="footer-col"><div class="logged-in"><h4>You</h4>
+<ul><li><a href="/you/tracks">Tracks</a></li>
+<li><a href="/you/sets">Sets</a></li>
+<li><a href="/you/comments">Comments</a></li>
+<li><a href="/you/favorites">Favorites</a></li>
+<li><a href="/you/groups">Groups</a></li>
+<li><a href="/settings">Settings</a></li></ul></div>
+<div class="anonymous"><h4>Sign Up</h4>
+<ul><li>Not on SoundCloud yet?
+<a href="/signup">Sign up for free</a></li></ul></div></div>
+<div class="footer-col"><h4>Explore</h4>
+<ul><li><a href="/tracks">Tracks</a></li>
+<li><a href="/people">People</a></li>
+<li><a href="/groups">Groups</a></li>
+<li><a href="/apps">Apps</a></li>
+<li class="logged-in"><a href="/pages/widgets">Widgets & Badges</a></li>
+<li><a href="/pages/meetups">Meetups</a></li>
+<li><a href="/mobile">Mobile</a></li></ul></div>
+<div class="footer-col"><h4>Pro Plans</h4>
+<ul><li><a href="/premium?ref=t025">Feature Overview</a></li>
+<li><a href="/premium/gifts">Buy a Gift</a></li>
+<li><a class="icon-button" href="/premium?ref=t026"><span class="go-pro">Go Pro</span></a></li></ul></div>
+<div class="footer-col"><h4>About Us</h4>
+<ul><li><a href="/pages/contact">About SoundCloud</a></li>
+<li><a href="http://blog.soundcloud.com">Blog</a></li>
+<li><a href="/jobs">Jobs</a></li>
+<li><a href="/press">Press</a></li></ul></div>
+<div class="footer-col"><h4>Help</h4>
+<ul><li><a href="/101">SoundCloud 101</a></li>
+<li><a href="http://help.soundcloud.com">Help</a></li>
+<li><a href="http://help.soundcloud.com" id="footer-support-link">Support</a></li></ul><script type="text/javascript">
+//<![CDATA[
+window.SC.renderSupportLevel()
+//]]>
+</script></div>
+<div class="footer-col last"><h4>Developers</h4>
+<ul><li><a href="http://developers.soundcloud.com">Get Started</a></li>
+<li><a href="http://developers.soundcloud.com/docs">Documentation</a></li>
+<li><a href="http://backstage.soundcloud.com/">Backstage Blog</a></li>
+<li><a href="http://developers.soundcloud.com/blog">API Blog</a></li>
+<li class="logged-in"><a href="/you/apps">Your Apps</a></li>
+<li><a href="/apps">App Gallery</a></li>
+<li><a href="http://soundcloudlabs.com">Labs</a></li></ul></div>
+<div id="logo-footer"></div><p id="copyright">© 2007-2013 SoundCloud Ltd. All rights reserved.
+<a href="/community-guidelines">Community Guidelines</a>
+|
+<a href="/terms-of-use">Terms of Use</a>
+|
+<a href="/pages/privacy">Privacy Policy</a>
+|
+<a href="/pages/copyright">Copyright Information</a>
+|
+<a href="/imprint">Imprint</a></p>
+</div>
+<div class="templates aural"><div id="wordpress-form"><h2>Share to WordPress.com</h2>
+<form><label for="short-code">
+Grab the <strong>shortcode</strong> or
+<a class="customize-link" href="#customize">customize your player</a>
+</label>
+<input class="content auto-select" id="short-code" name="short-code" />
+<div class="expl">If you are using <strong>self-hosted WordPress</strong>, please use our standard embed code or install the
+<a href="http://wordpress.org/extend/plugins/soundcloud-shortcode/">plugin</a>
+to use shortcodes.</div></form></div>
+
+<div id="timestamped-comment-template"><div class="content"><div class="header"><a class="close" href="#"></a>
+<span class="new">Add a comment</span>
+<span class="count">0 comments</span>
+at
+<span class="time">0.00</span></div>
+<div class="replies"><ol></ol>
+<div class="form-buttons"><input class="reply small" type="submit" value="Reply" /></div></div>
+<div class="tooltip"><abbr>
+Click to enter a
+<br />
+comment at
+</abbr>
+<span>0.00</span></div>
+<div class="footer"></div></div>
+<div class="arrow"></div></div>
+
+<div class="aural"><div id="unlock-form"><div class="site-login-form-wrapper zoom"><div class="login-header"><h2>Sign up</h2>
+<form action="https://soundcloud.com/login/facebook/create?redirect_uri=http%3A%2F%2Fsoundcloud.com%2Fjacksonissirius" class="connect-facebook" id="facebook-connect-form" method="POST"><input name="token" type="hidden" value="" />
+<input name="sig" type="hidden" value="" />
+<input alt="With your facebook account" class="facebook-signin" tabindex="0" type="submit" /></form>
+<a class="google-plus-signin" href="/login/google_plus/new">Sign in with Google</a>
+<div class="login-toc-text">By signing in you accept our
+<a href="/terms-of-use" target="_blank">Terms Of Use</a>
+and
+<a href="/pages/privacy" target="_blank">Privacy Policy</a></div></div>
+<br />
+<ul class="tabs"><li class="first "><a href="/login" id="tab-log-in-link" tabindex="1">Log in</a></li>
+<li class="last current"><a href="/signup" id="tab-sign-up-link" tabindex="2">Sign up</a></li></ul>
+<div class="pane hidden" id="tab-log-in"><form accept-charset="utf-8" action="https://soundcloud.com/session" id="login-form" method="post">
+<input name="token" type="hidden" value="" />
+<input name="uid" type="hidden" value="" />
+<div class="form-group"><label for="site-username">Your email address</label><input id="login_submitted_via" name="login_submitted_via" type="hidden" value="zoom" /><input class="title auto-select" id="site-username" name="username" tabindex="3" type="text" /></div>
+<div class="form-group"><label for="site-password">
+Password
+<a href="/login/forgot" class="forgot-link" tabindex="7">Forgot password?</a>
+</label><input class="title auto-select" id="site-password" name="password" tabindex="4" type="password" /></div>
+<div class="remember"><div class="checkbox"><input id="site-remember-me" name="remember_me" type="checkbox" />
+<label for="site-remember-me" tabindex="5">Remember me</label></div></div>
+<div class="form-buttons"><input class="default" id="log-in-submit-button" name="commit" tabindex="6" type="submit" value="Log in" /><a href="#" class="cancel" onclick="return false;" rel="nofollow" tabindex="8">Cancel</a></div>
+</form>
+<div class="forgot-password"><div class="forgot-password-container hidden"><form accept-charset="utf-8" action="http://soundcloud.com/login/forgot" id="forgot-password-form" method="post">
+<div class="form-group"><label for="email">
+<strong>
+Your email address or profile link:
+</strong>
+</label><input class="title auto-focus" id="email" name="email" type="text" /></div>
+<p>We'll send you a link that'll allow you to change your password. Need help? visit <a href="http://help.soundcloud.com/customer/portal/articles/search?q=forgot+email+address">our Help Center</a>.</p>
+<a href="/login" class="forgot-link-back">Oh, I remember it!</a>
+<div class="form-buttons"><input class="default" name="commit" type="submit" value="Submit" /></div>
+</form>
+</div></div></div>
+<div class="pane " id="tab-sign-up"><form accept-charset="utf-8" action="https://soundcloud.com/signup" class="suggest-email" id="signup-form" method="post">
+
+<div class="form-group"><div class="width_full"><label for="user_email">What's your email address?</label>
+<input autocomplete="off" class="title" id="user_email" maxlength="255" name="user[email]" size="255" type="text" />
+<small class="correction-notice hidden">
+Whoops, we corrected your misspelled email address
+</small></div></div>
+<div class="form-group"><div class="width_1_2"><label for="user_password">Choose a password</label><input autocomplete="off" class="title" id="user_password" maxlength="255" name="user[password]" size="255" type="password" /></div>
+<div class="width_1_2 last"><label for="user_password_confirmation">Re-type password</label><input autocomplete="off" class="title" id="user_password_confirmation" maxlength="255" name="user[password_confirmation]" size="255" type="password" /></div></div>
+<div class="remember"><div class="checkbox"><input id="email_updates" name="email_updates" type="checkbox" value="1" />
+<label for="email_updates">
+Yes, send me email updates about SoundCloud
+<span class="inline-help"><span class="content hidden">This includes Newsletters, Product updates & Special offers, Surveys. You can withdraw your consent at any time under email settings.</span></span>
+</label></div><div class="checkbox"><input id="user_terms_of_use" name="user[terms_of_use]" tabindex="" type="checkbox" value="1" />
+<label for="user_terms_of_use">
+I agree to the
+<a href="/terms-of-use" target="_blank">Terms of Use</a>
+and
+<a href="/pages/privacy" target="_blank">Privacy Policy</a>
+</label></div>
+</div>
+<div class="remember form-buttons"><input class="default" id="user-submit" name="commit" type="submit" value="Sign up" />
+<a class="cancel" href="/">Cancel</a></div>
+</form></div></div></div></div></div>
+<script src="http://a1.sndcdn.com/javascripts/base.js?aa1a7cb" type="text/javascript"></script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+$.helpers.loadScriptAsync('//www.google-analytics.com/ga.js');
+$.helpers.loadScriptAsync('//www.google.com/jsapi');
+</script>
+<script type="text/javascript">
+_qoptions = {qacct: "p-47_zcqmJsLHXQ"};
+$.helpers.loadScriptAsync('//edge.quantserve.com/quant.js', '//secure.quantserve.com/quant.js', true);
+</script>
+<noscript>
+<img alt="Quantcast" class="hidden" src="//pixel.quantserve.com/pixel/p-47_zcqmJsLHXQ.gif" />
+</noscript>
+<noscript>
+<img alt="" src="//logc252.xiti.com/hit.xiti?s=487751&s2=&p=&di=&an=&ac=" />
+</noscript>
+
+
+</body></html>
