@@ -1,0 +1,3 @@
+_gaq.push(['_addIgnoredOrganic', 'www.isiriusjack.com']); 
+
+_addOrganic(newOrganicEngine, querySiriusJack, opt_prepend)
