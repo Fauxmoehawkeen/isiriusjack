@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="cache-control" content="no-cache"/>
+		<meta http-equiv="pragma" content="no-cache"/>
+		<meta property="og:url"         content="http://isiriusjack.com/" />
+<meta property="og:title"       content="Sirius Jack!'s Website" />
+<meta property="og:description" content="All you'd ever want to know about Jack!" />
+<meta property="og:image"       content="http://isiriusjack.com/img/SJ_Big_Logo.jpg" />
+<meta name="keywords" content="Sirius Jack!, EDM, Electronic Dance Music, Dubstep, Darkstep, Skrillex" />
+<meta name="description" content="Sirius Jack is a producer who makes dubstep." />
+		<title>Sirius Jack! | Sirius Jack!&#039;s Aritst Page</title>
+		<link rel="stylesheet" type="text/css" href="/css/google_fonts" />
+		 <link rel="stylesheet" href="/themes/backdrop_clearshot2/css/style.css" type="text/css" media="screen" />		<script type="text/javascript" language="javascript" src="/shared/lib/js/audio-player.js"></script>
+		<script type="text/javascript">
+		AudioPlayer.setup("/shared/lib/swf/player.swf", {  
+			autostart:		"no",
+			loop:			"no",
+			initialvolume:	"95",
+			bg:				"55e7df",
+			leftbg:			"55e7df",
+			rightbg:		"55e7df",
+			track:			"dddddd",
+			tracker:		"bbbbbb",
+			skip:			"000000",
+			righticon:		"000000",
+			volslider:		"000000",
+			lefticon:		"000000",
+			loader:			"000000",
+			text:			"000000",
+			width:			500,
+			animation:		"no",
+			transparentpagebg:	"yes"
+		}); 
+		
+		AudioPlayer.embed("flash_player", {
+			soundFile:	"/audio/MP3-320-siriusjack3-01_hifi.mp3",
+			titles:		"Black for Jack! (Original Mix)",
+			artists:	"Sirius Jack!"
+		});
+		</script>
+	</head>
+	<body class="flash_player_frame" style="margin: auto; padding: 0px; top: 0px;">
+		<!-- 2 llamas -->
+		<div align="center" style="top: 0px; margin: 0px; padding: 0px;">
+			<span id="flash_player">If the flash player isn't showing up here, you need to <a href="http://www.adobe.com/go/getflashplayer/" target="_blank">download Flash</a></span>
+		</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33423436-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</body>
+</html>

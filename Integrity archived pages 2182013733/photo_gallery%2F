@@ -1,0 +1,487 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en">
+<head>
+
+	<title>Sirius Jack! | Sirius Jack!&#039;s Aritst Page | Photo Gallery</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width">
+<meta property="og:url"         content="http://isiriusjack.com/photo_gallery" />
+<meta property="og:title"       content="Sirius Jack!'s Website" />
+<meta property="og:description" content="All you'd ever want to know about Jack!" />
+<meta property="og:image"       content="http://isiriusjack.com/img/SJ_Big_Logo.jpg" />
+<meta name="keywords" content="Sirius Jack!, EDM, Electronic Dance Music, Dubstep, Darkstep, Skrillex" />
+<meta name="description" content="Sirius Jack is a producer who makes dubstep." />
+<link rel="stylesheet" type="text/css" media="all" href="/themes/backdrop_clearshot2/css/style.css" />
+<link rel="stylesheet" href="/dashboard/css/lytebox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="/dashboard/js/lytebox.js"></script>
+<script type="text/javascript" src="/shared/lib/js/swfobject.js"></script>
+<script type="text/javascript" src="/shared/lib/js/audioplay.js"></script>
+<script type="text/javascript" src="/dashboard/js/theme.js"></script>
+
+	<script type="text/javascript" language="javascript" src="/dashboard/js/lytebox.js"></script>
+	<script type="text/javascript" language="javascript" src="/themes/backdrop_clearshot2/js/clear_input.js"></script>
+	
+	<link rel="stylesheet" href="/dashboard/css/lytebox.css" type="text/css" media="screen" />
+	<link rel="profile" href="http://microformats.org/profile/hcalendar" />
+
+	<!--[if IE 8]>
+		<link rel="stylesheet" href="/themes/backdrop_clearshot2/css/ie8.css">
+	<![endif]-->
+	<!--[if IE 7]>
+		<link rel="stylesheet" href="/themes/backdrop_clearshot2/css/ie7.css">
+	<![endif]-->
+	
+
+	<script type="text/javascript">
+		'article aside canvas figcaption figure footer header hgroup nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	</script>
+
+	<script type="text/javascript">
+	
+	$(document).ready(function(){
+	    $(".widget_listbaby input[type='text']").clearInput();
+	});
+	
+	</script>
+	
+<link rel="stylesheet" type="text/css" href="/css/google_fonts" /><script type="text/javascript">var switchTo5x=false;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+<script type="text/javascript" language="javascript">
+	$(document).ready(function()
+		{
+
+			/* Buttons */
+			stLight.options({publisher: "ur-b473058-e658-4435-b52c-5adafefc6fc1"});
+			$('.entry:last').after('<div id="share-tool" style="margin:6px;">' +
+				'<span class="st_sharethis_custom" displayText="ShareThis" style="display: inline-block; cursor: pointer; background: url(/dashboard/img/share-icon-grey.png) no-repeat scroll left top transparent; height:24px; width: auto; padding: 3px 0 0 24px ;">Share This!</span>' +
+				'</div>');
+		}
+	);
+</script>
+<script src="//use.edgefonts.net/aguafina-script:n4:all;allura:n4:all;caesar-dressing:n4:all;cabin-sketch:n4,n7:all;frijole:n4:all;italianno:n4:all;kaushan-script:n4:all;julee:n4:all;kenia:n4:all;marck-script:n4:all;monofett:n4:all;montez:n4:all;mr-dafoe:n4:all;nosifer:n4:all;permanent-marker:n4:all;playball:n4:all;plaster:n4:all.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33423436-5', 'isiriusjack.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='75334930-0',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33423436-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript" language="javascript" src="/themes/backdrop_clearshot2/js/jquery.fitvids.js"></script>
+
+<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $("#content, .widget_content").fitVids();
+  });
+</script>
+
+<script>
+	$(document).ready(function(){
+		// Targets last-child widget container to allow styling in IE
+		$(".widget_container:last-child").addClass('last-child');
+	});
+</script>
+
+
+</head>
+<body id="photo_gallery" class="photo">
+
+<div id="bg">
+		<div id="wrapper">
+
+			<div class="site_title">
+				<h1>
+					<span>
+						<a href="/index">
+							Sirius Jack!						</a>
+					</span>
+				</h1>
+			</div><!-- .site_title -->
+	<!-- Page Title not needed here	<h2 class="page_title"><span>Photo Gallery</span></h2>-->
+		
+		<ul id="accessibility_nav">
+			<li><a href="#navigation">Skip to navigation</a></li>
+			<li><a href="#content">Skip to content</a></li>
+		</ul>
+		
+		<nav class="site_nav" id="navigation">
+			
+<ul class='nav_list'>
+<li><a  href="/index/">Home</a></li>
+<li><a  href="/bio/">Bio</a></li>
+<li><a  href="/gig/">Calendar</a></li>
+<li><a  href="/store/">Store</a></li>
+<li><a  href="/listen/">Audio</a></li>
+<li class="current"><a  href="/photo_gallery/">Photo Gallery</a></li>
+<li><a  href="/blog/">Blog</a></li>
+<li><a  href="/press/">Press/Reviews</a></li>
+<li><a  href="/contact/">Contact</a></li>
+<li><a  href="/video_gallery/">Video Gallery</a></li>
+<li><a  href="/sitemap/">Sitemap</a></li>
+</ul>
+		</nav>
+	<div class="clear"></div>
+	<div id="left_content">
+	
+	<div class="container">
+						
+				<div id="content">
+				
+				
+
+<!-- These pre/post widget regions are not used. Blech.				
+				<div id="widget_region_pre_content">
+									</div>
+ -->
+
+
+
+
+
+
+
+	<div class="hb_lytebox_class photo_gallery entry">
+
+		<ul class="entry_content">
+
+								
+			<li id="post-6" class="post photo_post">
+
+					<a href="/img/albumart.jpg" rel="lyteshow[group_0]" title="albumart" >
+					<img src="/img/thumbs/albumart.jpg" height="115" width="115" title="albumart" alt="albumart" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-7" class="post photo_post">
+
+					<a href="/img/SJ_Big_Logo_copy.jpg" rel="lyteshow[group_0]" title="SJ_Big_Logo_copy" >
+					<img src="/img/thumbs/SJ_Big_Logo_copy.jpg" height="115" width="115" title="SJ_Big_Logo_copy" alt="SJ_Big_Logo_copy" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-8" class="post photo_post">
+
+					<a href="/img/SJ-Sirius-Jack_copy_cop1y_copy.png" rel="lyteshow[group_0]" title="SJ-Sirius-Jack_copy_cop1y_copy" >
+					<img src="/img/thumbs/SJ-Sirius-Jack_copy_cop1y_copy.png" height="115" width="115" title="SJ-Sirius-Jack_copy_cop1y_copy" alt="SJ-Sirius-Jack_copy_cop1y_copy" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-9" class="post photo_post">
+
+					<a href="/img/me.jpg" rel="lyteshow[group_0]" title="me" >
+					<img src="/img/thumbs/me.jpg" height="115" width="115" title="me" alt="me" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-10" class="post photo_post">
+
+					<a href="/img/nash.jpg" rel="lyteshow[group_0]" title="nash" >
+					<img src="/img/thumbs/nash.jpg" height="115" width="115" title="nash" alt="nash" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-11" class="post photo_post">
+
+					<a href="/img/newsongcoming.png" rel="lyteshow[group_0]" title="newsongcoming" >
+					<img src="/img/thumbs/newsongcoming.png" height="115" width="115" title="newsongcoming" alt="newsongcoming" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-12" class="post photo_post">
+
+					<a href="/img/Photo_on_7-28-12_at_4_04_AM__5_copy.jpg" rel="lyteshow[group_0]" title="Photo_on_7-28-12_at_4_04_AM__5_copy" >
+					<img src="/img/thumbs/Photo_on_7-28-12_at_4_04_AM__5_copy.jpg" height="115" width="115" title="Photo_on_7-28-12_at_4_04_AM__5_copy" alt="Photo_on_7-28-12_at_4_04_AM__5_copy" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-13" class="post photo_post">
+
+					<a href="/img/sharj.jpg" rel="lyteshow[group_0]" title="sharj" >
+					<img src="/img/thumbs/sharj.jpg" height="115" width="115" title="sharj" alt="sharj" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-14" class="post photo_post">
+
+					<a href="/img/Photo_on_5-27-12_at_10_37_PM__5.jpg" rel="lyteshow[group_0]" title="Photo_on_5-27-12_at_10_37_PM__5" >
+					<img src="/img/thumbs/Photo_on_5-27-12_at_10_37_PM__5.jpg" height="115" width="115" title="Photo_on_5-27-12_at_10_37_PM__5" alt="Photo_on_5-27-12_at_10_37_PM__5" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-15" class="post photo_post">
+
+					<a href="/img/Photo_on_5-27-12_at_10_35_PM__2.jpg" rel="lyteshow[group_0]" title="Photo_on_5-27-12_at_10_35_PM__2" >
+					<img src="/img/thumbs/Photo_on_5-27-12_at_10_35_PM__2.jpg" height="115" width="115" title="Photo_on_5-27-12_at_10_35_PM__2" alt="Photo_on_5-27-12_at_10_35_PM__2" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-16" class="post photo_post">
+
+					<a href="/img/sjsjsj.jpg" rel="lyteshow[group_0]" title="sjsjsj" >
+					<img src="/img/thumbs/sjsjsj.jpg" height="115" width="115" title="sjsjsj" alt="sjsjsj" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-17" class="post photo_post">
+
+					<a href="/img/_d_2013-01-08_at_9_54_30_PM.jpg" rel="lyteshow[group_0]" title="_d_2013-01-08_at_9_54_30_PM" >
+					<img src="/img/thumbs/_d_2013-01-08_at_9_54_30_PM.jpg" height="115" width="115" title="_d_2013-01-08_at_9_54_30_PM" alt="_d_2013-01-08_at_9_54_30_PM" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-18" class="post photo_post">
+
+					<a href="/img/_d_2013-05-12_at_12_46_32_PM.jpg" rel="lyteshow[group_0]" title="_d_2013-05-12_at_12_46_32_PM" >
+					<img src="/img/thumbs/_d_2013-05-12_at_12_46_32_PM.jpg" height="115" width="115" title="_d_2013-05-12_at_12_46_32_PM" alt="_d_2013-05-12_at_12_46_32_PM" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-23" class="post photo_post">
+
+					<a href="/img/galaxy-1440-900-4399.jpg" rel="lyteshow[group_0]" title="galaxy-1440-900-4399" >
+					<img src="/img/thumbs/galaxy-1440-900-4399.jpg" height="115" width="115" title="galaxy-1440-900-4399" alt="galaxy-1440-900-4399" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-24" class="post photo_post">
+
+					<a href="/img/1074087_10151802359341095_1211495689_o1.jpg" rel="lyteshow[group_0]" title="1074087_10151802359341095_1211495689_o1" >
+					<img src="/img/thumbs/1074087_10151802359341095_1211495689_o1.jpg" height="115" width="115" title="1074087_10151802359341095_1211495689_o1" alt="1074087_10151802359341095_1211495689_o1" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-25" class="post photo_post">
+
+					<a href="/img/mapping_neu.jpg" rel="lyteshow[group_0]" title="mapping_neu" >
+					<img src="/img/thumbs/mapping_neu.jpg" height="115" width="115" title="mapping_neu" alt="mapping_neu" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-26" class="post photo_post">
+
+					<a href="/img/wallpowper_com_wallpaper_2012_12_01_earth-amp-galaxy-1440x900-pixels-tagged-earth-galaxy.jpg" rel="lyteshow[group_0]" title="wallpowper_com_wallpaper_2012_12_01_earth-amp-galaxy-1440x900-pixels-tagged-earth-galaxy" >
+					<img src="/img/thumbs/wallpowper_com_wallpaper_2012_12_01_earth-amp-galaxy-1440x900-pixels-tagged-earth-galaxy.jpg" height="115" width="115" title="wallpowper_com_wallpaper_2012_12_01_earth-amp-galaxy-1440x900-pixels-tagged-earth-galaxy" alt="wallpowper_com_wallpaper_2012_12_01_earth-amp-galaxy-1440x900-pixels-tagged-earth-galaxy" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-27" class="post photo_post">
+
+					<a href="/img/Untitled.png" rel="lyteshow[group_0]" title="Untitled" >
+					<img src="/img/thumbs/Untitled.png" height="115" width="115" title="Untitled" alt="Untitled" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-28" class="post photo_post">
+
+					<a href="/img/2013-03-21_23-56-23.png" rel="lyteshow[group_0]" title="2013-03-21_23-56-23" >
+					<img src="/img/thumbs/2013-03-21_23-56-23.png" height="115" width="115" title="2013-03-21_23-56-23" alt="2013-03-21_23-56-23" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-29" class="post photo_post">
+
+					<a href="/img/IMG_20130725_112659_184.jpg" rel="lyteshow[group_0]" title="IMG_20130725_112659_184" >
+					<img src="/img/thumbs/IMG_20130725_112659_184.jpg" height="115" width="115" title="IMG_20130725_112659_184" alt="IMG_20130725_112659_184" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+								
+			<li id="post-30" class="post photo_post">
+
+					<a href="/img/IMG_20130725_152845.jpg" rel="lyteshow[group_0]" title="IMG_20130725_152845" >
+					<img src="/img/thumbs/IMG_20130725_152845.jpg" height="115" width="115" title="IMG_20130725_152845" alt="IMG_20130725_152845" />
+				</a>
+
+			</li><!-- .post .entry .photo_post -->
+
+		
+		</ul><!-- .entry_content -->
+		<div class="clear"></div>
+	</div><!-- .hb_lytebox_class .photo_galler -->
+
+
+<div id="pagination">
+	</div>
+
+
+</div><!-- .container -->
+</div>
+</div> <!-- end left_content -->
+	
+ <div id="right_content">
+			<div class="widget_region_post_content">
+							</div>
+			
+			<div id="right_sidebar" class="widget_content">
+				
+<div class="widget_container widget_basic">
+
+	<h3>Soundcloud!</h3>
+
+	<div class="widget_content">
+		<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F3823825&amp;color=ff6600&amp;auto_play=true&amp;show_artwork=true"></iframe>	</div>
+
+</div><!-- .widget_container .widget_basic -->
+<div class="widget_container widget_social">
+	<h3>Connect To Jack!</h3>
+
+	<div class="widget_content">
+			<a href="http://www.facebook.com/jacksonissirius" target="_blank"><img src="/dashboard/img/sn_icons/1/facebook.png" title="Facebook" /></a>
+				<a href="http://www.twitter.com/siriusjack" target="_blank"><img src="/dashboard/img/sn_icons/1/twitter.png" title="Twitter" /></a>
+				<a href="http://siriusjack-son.tumblr.com" target="_blank"><img src="/dashboard/img/sn_icons/1/tumblr.png" title="Tumblr" /></a>
+					<a href="http://www.google.com/profiles/108942891188028178321" target="_blank"><img src="/dashboard/img/sn_icons/1/google_plus.png" title="Google+" /></a>
+				<a href="http://www.youtube.com/user/Fauxmoehawkeen" target="_blank"><img src="/dashboard/img/sn_icons/1/youtube.png" title="YouTube" /></a>
+				<a href="http://www.cdbaby.com/Artist/SiriusJack" target="_blank"><img src="/dashboard/img/sn_icons/1/cdbaby.png" title="CDBaby" /></a>
+		</div>
+</div><!-- .widget_container .widget_social -->
+
+<div class="widget_container widget_basic">
+
+	<h3>Jack&#039;s Portfolio!</h3>
+
+	<div class="widget_content">
+		<script class="be-follow-script" type="text/javascript" src="http://a2.behance.net/js/widgets/follow.js?user_id=1313857&color=#76e1ff&background_top=#00d9c2&background_bottom=#4868e2&border_color=#ffffff"></script>	</div>
+
+</div><!-- .widget_container .widget_basic -->
+
+<div class="widget_container widget_basic">
+
+	<h3>Google</h3>
+
+	<div class="widget_content">
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2162371245472641";
+/* Homepage New */
+google_ad_slot = "2850605793";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>	</div>
+
+</div><!-- .widget_container .widget_basic -->
+
+<div class="widget_container widget_basic">
+
+	<h3>Subscribe To Jack!</h3>
+
+	<div class="widget_content">
+		<script src="https://apis.google.com/js/plusone.js"></script>
+
+<div class="g-ytsubscribe" data-channel="Fauxmoehawkeen" data-layout="full" data-theme="dark"></div>	</div>
+
+</div><!-- .widget_container .widget_basic -->
+
+<div class="widget_container widget_basic">
+
+	<h3>Share Us!</h3>
+
+	<div class="widget_content">
+		<div class="g-plus" data-action="share" data-height="24" data-href="http://isiriusjack.com"></div>
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>	</div>
+
+</div><!-- .widget_container .widget_basic -->
+			</div><!-- .alpha .grid_4 .omega -->
+</div> <!-- end right_content -->
+
+
+		<div class="clear"></div>
+
+
+
+</div> <!-- end wrapper-->
+	<footer class="footer">
+		<p>
+			&copy; 2013 Sirius Jack!. All Rights Reserved.		</p>
+	</footer><!-- .footer -->
+</div> <!-- end bg -->
+
+
+			  
+
+</body>
+
+</html>
